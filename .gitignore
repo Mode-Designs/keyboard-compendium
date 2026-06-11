@@ -8,6 +8,6 @@ site/
 __pycache__/
 .venv/
 
-# Local working files (source sheet still in progress)
-Keyboard Compendium.xlsx
-file_exports.txt
+# Local working files — source sheet, export checklists, and other references
+references/
+*.xlsx
