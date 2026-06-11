@@ -1,0 +1,422 @@
+@font-face {
+    font-family: "PPNeueMontreal-Regular";
+    src: url("../assets/PPNeueMontreal-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PPNeueMontrealMono-Regular";
+    src: url("../assets/PPNeueMontrealMono-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PPMondwest-Regular";
+    src: url("../assets/PPMondwest-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+[data-md-color-scheme="mode"] {
+    --color-green: oklch(0.339 0.0503 150.99);
+    /* #2A3E2 */
+    --color-yellow: oklch(0.8437 0.1329 68.87);
+    /* #F9BE73 */
+    --color-orange: oklch(0.6276 0.1961 32.84);
+    /* #D5573B */
+    --color-salmon: oklch(0.8511 0.0694 28.12);
+    /* #EC9A8D */
+    --color-navy: oklch(0.3149 0.0246 255.18);
+    /* #2B323D */
+    --color-brown: oklch(0.3601 0.0502 62.39);
+    /* #4C3824 */
+    --color-white: oklch(0.9829 0.0096 81.63);
+    /* #FCF9F3 */
+    --color-cream: oklch(0.9559 0.0187 85.35);
+    /* #F5F0E4 */
+    --color-black: oklch(0.3051 0.0061 89.49);
+    /* #302F2C */
+
+    --color-green-100: oklch(0.9709 0.004 149.07);
+    /* #F4F6F4 */
+    --color-green-150: oklch(0.9255 0.0091 155.27);
+    /* #E3E8E4 */
+    --color-green-200: oklch(0.8794 0.0153 152.8);
+    /* #D2DAD3 */
+    --color-green-250: oklch(0.8025 0.025 153.55);
+    /* #B6C3B8 */
+    --color-green-300: oklch(0.7237 0.0364 152);
+    /* #9AAC9C */
+    --color-green-400: oklch(0.6149 0.0644 151.97);
+    /* #708F74 */
+    --color-green-500: oklch(0.5287 0.0701 150.65);
+    /* #567659 */
+    --color-green-600: oklch(0.4352 0.0614 151.04);
+    /* #3F5A42 */
+    --color-green-700: oklch(0.339 0.0503 150.99);
+    /* #2A3E2 */
+    --color-green-800: oklch(0.2871 0.0256 151.26);
+    /* #242E25 */
+    --color-green-850: oklch(0.2636 0.0166 148.7);
+    /* #212721 */
+    --color-green-900: oklch(0.2388 0.0085 148.87);
+    /* #1D201D */
+
+    --color-warm-100: oklch(0.9829 0.0096 81.63);
+    /* #FCF9F3 */
+    --color-warm-200: oklch(0.9559 0.0187 85.35);
+    /* #F5F0E4 */
+    --color-warm-250: oklch(0.927 0.0195 83.29);
+    /* #ECE6DA */
+    --color-warm-300: oklch(0.873 0.0201 84.77);
+    /* #DAD5C8 */
+    --color-warm-400: oklch(0.7638 0.0226 88.28);
+    /* #B7B2A4 */
+    --color-warm-500: oklch(0.6602 0.0184 87.91);
+    /* #969287 */
+    --color-warm-600: oklch(0.518 0.0118 89.38);
+    /* #6A6862 */
+    --color-warm-700: oklch(0.4027 0.0064 74.73);
+    /* #4A4845 */
+    --color-warm-800: oklch(0.3051 0.0061 89.49);
+    /* #302F2C */
+    --color-warm-900: oklch(0.2397 0.0045 81.78);
+    /* #201F1D */
+
+    --color-cool-100: oklch(0.9859 0.0013 106.42);
+    /* #FAFAF9 */
+    --color-cool-200: oklch(0.9422 0.0044 106.48);
+    /* #ECECE9 */
+    --color-cool-250: oklch(0.8896 0.0089 106.58);
+    /* #DBDBD5 */
+    --color-cool-300: oklch(0.8334 0.00769 117.0248);
+    /* #C8C9C4 */
+    --color-cool-400: oklch(0.7646 0.0064 119.84);
+    /* #B2B3AF */
+    --color-cool-500: oklch(0.6844 0.0029 195.84);
+    /* #989A9A */
+    --color-cool-600: oklch(0.5198 0.008 207.9);
+    /* #656A6B */
+    --color-cool-700: oklch(0.4225 0.0082 195.62);
+    /* #4A4F4F */
+    --color-cool-800: oklch(0.3246 0.007 195.59);
+    /* #313535 */
+    --color-cool-900: oklch(0.2197 0.0039 195.65);
+    /* #191B1B */
+
+    --md-radius: 0.4375rem;
+    --md-background: var(--color-warm-250);
+    --md-foreground: var(--color-green-800);
+    --md-card: transparent;
+    --md-card-foreground: var(--color-green-800);
+    --md-grid-line: var(--color-warm-250);
+    --md-grid-line-bold: var(--color-warm-500);
+    --md-popover: var(--color-warm-300);
+    --md-popover-foreground: var(--color-green-800);
+    --md-primary: var(--color-green);
+    --md-primary-foreground: var(--color-warm-300);
+    --md-secondary: var(--color-yellow);
+    --md-secondary-foreground: var(--color-green);
+    --md-muted: var(--color-warm-100);
+    --md-muted-foreground: var(--color-warm-600);
+    --md-accent: var(--color-green-400);
+    --md-accent-foreground: var(--color-green);
+    --md-additive: var(--color-green-400);
+    --md-destructive: var(--color-orange);
+    --md-destructive-foreground: var(--color-warm-300);
+    --md-border: var(--color-green-300);
+    --md-input: var(--color-green-300);
+    --md-ring: var(--color-green);
+    --md-sidebar: var(--color-cream);
+    --md-sidebar-foreground: var(--color-green-800);
+    --md-sidebar-primary: var(--color-green);
+    --md-sidebar-primary-foreground: var(--color-warm-300);
+    --md-sidebar-accent: var(--color-yellow);
+    --md-sidebar-accent-foreground: var(--color-green);
+    --md-sidebar-border: var(--color-green-300);
+    --md-sidebar-ring: var(--color-green);
+    --md-success: var(--color-green-400);
+    --md-success-foreground: var(--color-warm-300);
+    --md-warning: var(--color-yellow);
+    --md-warning-foreground: var(--color-green);
+    --md-info: var(--color-cool-300);
+    --md-info-foreground: var(--color-green);
+    --md-neutral: var(--color-warm-400);
+    --md-neutral-foreground: var(--color-green);
+    --md-highlight: var(--color-salmon);
+    --md-highlight-foreground: var(--color-warm-300);
+
+    --md-background--dark: var(--color-green-850);
+    --md-foreground--dark: var(--color-warm-300);
+    --md-card: transparent;
+    --md-card-foreground--dark: var(--color-warm-200);
+    --md-grid-line--dark: var(--color-green-700);
+    --md-grid-line-bold--dark: var(--color-warm-500);
+    --md-popover--dark: var(--color-black);
+    --md-popover-foreground--dark: var(--color-warm-200);
+    --md-primary--dark: var(--color-green);
+    --md-primary-foreground--dark: var(--color-warm-200);
+    --md-secondary--dark: var(--color-warm-100);
+    --md-secondary-foreground--dark: var(--color-green-850);
+    --md-muted--dark: var(--color-warm-800);
+    --md-muted-foreground--dark: var(--color-warm-500);
+    --md-accent--dark: var(--color-yellow);
+    --md-accent-foreground--dark: var(--color-green);
+    --md-additive--dark: var(--color-green-400);
+    --md-destructive--dark: var(--color-orange);
+    --md-destructive-foreground--dark: var(--color-warm-200);
+    --md-border--dark: var(--color-green-300);
+    --md-input--dark: var(--color-green-300);
+    --md-ring--dark: var(--color-green);
+    --md-sidebar--dark: var(--color-black);
+    --md-sidebar-foreground--dark: var(--color-warm-200);
+    --md-sidebar-primary--dark: var(--color-green);
+    --md-sidebar-primary-foreground--dark: var(--color-warm-200);
+    --md-sidebar-accent--dark: var(--color-yellow);
+    --md-sidebar-accent-foreground--dark: var(--color-green);
+    --md-sidebar-border--dark: var(--color-green-300);
+    --md-sidebar-ring--dark: var(--color-green);
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* Mapped MkDocs color tokens (derived from Mode palette)                     */
+/* -------------------------------------------------------------------------- */
+:root>* {
+    --font-sans: "PPNeueMontreal-Regular", sans-serif;
+    --font-serif-display: "PPMondwest-Regular", serif;
+    --font-serif-text: "PPNeueMontreal-Regular", serif;
+    --font-mono: "PPNeueMontrealMono-Regular", monospace;
+    --font-alter: "PPMondwest-Regular", serif;
+
+    /* Primary color shades */
+    --md-primary-fg-color: var(--md-primary);
+    --md-primary-fg-color--light: var(--color-green-400);
+    --md-primary-fg-color--dark: var(--color-green-800);
+    --md-primary-bg-color: var(--md-background);
+    --md-primary-bg-color--light: var(--md-muted);
+
+    /* Accent color shades */
+    --md-accent-fg-color: var(--md-accent);
+    --md-accent-fg-color--transparent: color-mix(in srgb, var(--md-accent) 10%, transparent);
+    --md-accent-bg-color: var(--md-background);
+    --md-accent-bg-color--light: var(--md-muted);
+
+    /* Default theme (light) */
+    --md-hue: 150deg;
+    --md-default-fg-color: var(--md-foreground);
+    --md-default-fg-color--light: color-mix(in srgb, var(--md-foreground) 70%, transparent);
+    --md-default-fg-color--lighter: color-mix(in srgb, var(--md-foreground) 45%, transparent);
+    --md-default-fg-color--lightest: var(--color-warm-100);
+    --md-default-bg-color: var(--md-background);
+    --md-default-bg-color--light: color-mix(in srgb, var(--md-background) 70%, var(--color-warm-100) 30%);
+    --md-default-bg-color--lighter: color-mix(in srgb, var(--md-background) 50%, transparent);
+    --md-default-bg-color--lightest: color-mix(in srgb, var(--md-background) 20%, transparent);
+
+    /* Code color shades */
+    --md-code-fg-color: var(--md-foreground);
+    --md-code-bg-color: var(--md-muted);
+    --md-code-bg-color--light: color-mix(in srgb, var(--md-muted) 70%, transparent);
+    --md-code-bg-color--lighter: color-mix(in srgb, var(--md-muted) 30%, transparent);
+
+    /* Code highlighting */
+    --md-code-hl-color: var(--md-accent);
+    --md-code-hl-color--light: color-mix(in srgb, var(--md-accent) 15%, transparent);
+
+    /* Code highlighting syntax */
+    --md-code-hl-number-color: var(--md-destructive);
+    --md-code-hl-special-color: var(--md-highlight);
+    --md-code-hl-function-color: var(--md-secondary);
+    --md-code-hl-constant-color: var(--md-additive);
+    --md-code-hl-keyword-color: var(--md-primary);
+    --md-code-hl-string-color: var(--md-success);
+    --md-code-hl-name-color: var(--md-code-fg-color);
+    --md-code-hl-operator-color: var(--md-muted-foreground);
+    --md-code-hl-punctuation-color: var(--md-muted-foreground);
+    --md-code-hl-comment-color: var(--md-muted-foreground);
+    --md-code-hl-generic-color: var(--md-muted-foreground);
+    --md-code-hl-variable-color: var(--md-code-fg-color);
+
+    /* Typeset color shades */
+    --md-typeset-color: var(--md-default-fg-color);
+    --md-typeset-a-color: var(--md-primary-fg-color);
+    --md-typeset-del-color: color-mix(in srgb, var(--md-destructive) 30%, transparent);
+    --md-typeset-ins-color: color-mix(in srgb, var(--md-success) 30%, transparent);
+    --md-typeset-kbd-color: var(--color-warm-100);
+    --md-typeset-kbd-accent-color: var(--color-white);
+    --md-typeset-kbd-border-color: var(--color-warm-500);
+    --md-typeset-mark-color: color-mix(in srgb, var(--md-accent) 50%, transparent);
+
+    /* Table colors */
+    --md-typeset-table-color: var(--color-green-800);
+    --md-typeset-table-color--light: var(--color-warm-200);
+
+    /* Admonition colors */
+    --md-admonition-fg-color: var(--md-default-fg-color);
+    --md-admonition-bg-color: var(--md-default-bg-color);
+
+    /* Warning colors */
+    --md-warning-fg-color: var(--md-default-fg-color);
+    --md-warning-bg-color: var(--md-warning);
+
+    /* Footer colors */
+    --md-footer-fg-color: var(--color-warm-300);
+    --md-footer-fg-color--light: color-mix(in srgb, var(--color-warm-300) 70%, transparent);
+    --md-footer-fg-color--lighter: color-mix(in srgb, var(--color-warm-300) 45%, transparent);
+    --md-footer-bg-color: var(--color-green-850);
+    --md-footer-bg-color--dark: var(--color-green-850);
+}
+
+* {
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    font-family: var(--font-sans), sans-serif;
+}
+
+#shop-hcaptcha-badge-container {
+    visibility: hidden !important;
+}
+
+body {
+    font-family: var(--font-serif-text), serif;
+    font-weight: 400;
+    font-size: .75rem;
+}
+
+.md-typeset .md-tag {
+    font-weight: 400;
+}
+
+.md-typeset, .md-nav, .md-typeset table:not([class]) {
+    font-size: .65rem;
+}
+
+.md-header {
+    background-color: var(--md-background);
+    color: var(--md-foreground);
+}
+
+.md-header__button.md-logo img {
+    height: 24px;
+    color: var(--color-green);
+    aspect-ratio: 4;
+}
+
+.md-header__topic:first-child {
+    font-weight: 400;
+}
+
+.md-header__title {
+    font-family: var(--font-serif-display), serif;
+    font-weight: 400;
+}
+
+.md-header--shadow {
+    box-shadow: none;
+}
+
+/* H1: 3rem → 5rem */
+.md-typeset h1 {
+    font-family: var(--font-serif-display), serif;
+    font-weight: 300;
+    line-height: 1.1;
+    font-size: 2.75em;
+    /* keep if you still want the optical tweaks */
+    margin-left: clamp(-2px, -0.2vw, -3px);
+    letter-spacing: clamp(-1.44px, -0.2vw, -2.4px);
+}
+
+h2, h3, h4, h5, h6 {
+    color: var(--md-muted-foreground);
+}
+
+.md-typeset .admonition.info, .md-typeset details.info {
+    background-color: color-mix(in srgb, var(--color-green-400) 20%, transparent);
+    border-color: var(--color-green-300);
+    color: var(--color-green-600);
+}
+
+.md-typeset .info>.admonition-title:before, .md-typeset .info>summary:before {
+    background-color: var(--color-green-600);
+}
+
+.md-typeset table:not([class]), .md-typeset table:not([class]) td {
+    border-width: 0.5px;
+}
+
+/* Table styling: hide horizontal borders for empty cells and add vertical borders */
+.md-typeset table:not([class]) td:empty,
+.md-typeset table:not([class]) th:empty {
+    border-top: none;
+    border-width: 0.5px;
+}
+
+.md-typeset table:not([class]) td:not(:first-child),
+.md-typeset table:not([class]) th:not(:first-child) {
+    border-left: 0.5px solid var(--md-typeset-table-color);
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+    padding: 0.5em 0.75em;
+    line-height: 1.4;
+}
+
+.md-typeset a {
+    text-decoration: underline;
+    text-decoration-thickness: 0.5px;
+    text-underline-offset: 0.25em;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+    /* text-decoration-skip is non-standard; rely on skip-ink only */
+}
+
+.md-typeset table a {
+    text-decoration: none;
+    text-decoration-thickness: initial;
+    text-underline-offset: initial;
+    text-decoration-style: initial;
+}
+
+/* Prevent availability tables from wrapping link/description text */
+.md-typeset table.nowrap-table td,
+.md-typeset table.nowrap-table th {
+    white-space: nowrap;
+}
+
+/* Breadcrumb styling */
+.md-path__link {
+    color: var(--md-muted-foreground);
+}
+
+.md-path__link:hover {
+    font-size: 0.675rem;
+    color: var(--md-foreground);
+}
+
+.md-path__item:not(:first-child)::before {
+    content: "›" !important;
+    color: var(--md-muted-foreground) !important;
+    margin: 0 0.5rem;
+    display: inline-block;
+    vertical-align: baseline;
+    font-weight: normal;
+    background-color: transparent !important;
+    -webkit-mask-image: none !important;
+    mask-image: none !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.md-footer {
+    margin-top: 2.5rem;
+}

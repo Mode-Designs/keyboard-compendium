@@ -1,0 +1,58 @@
+site_name: Keyboard Compendium
+# TODO: confirm final production URL before launch
+site_url: https://compendium.modedesigns.com/
+copyright: Copyright &copy; 2026 Mode Designs LLC. All rights reserved.
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.progress
+  palette:
+    scheme: mode
+    primary: custom
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+  # Fonts are self-hosted via stylesheets/extra.css; Material's font setting
+  # only loads from Google Fonts.
+  font: false
+plugins:
+  - search
+  - tags
+extra_css:
+  - stylesheets/extra.css
+extra:
+  homepage: https://modedesigns.com
+  generator: false
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - material.extensions.preview:
+      configurations:
+        - targets:
+            include:
+              - parts/**
+# Part pages are intentionally not in the nav; they are reached from each
+# keyboard's Components table.
+not_in_nav: |
+  parts/*.md
+nav:
+  - index.md
+  - Back to Storefront: https://modedesigns.com
+  - Keyboards:
+    - 2021 SixtyFive:
+      - keyboards/sixtyfive-2021/index.md
+      - Components: keyboards/sixtyfive-2021/components.md
+      - Design Files: keyboards/sixtyfive-2021/design-files.md
+      - Community Projects: keyboards/sixtyfive-2021/community-projects.md
+  - About: about.md
