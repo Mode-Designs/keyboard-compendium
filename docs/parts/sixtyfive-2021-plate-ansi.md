@@ -1,32 +1,34 @@
 ---
+title: 2021 SixtyFive Plate / ANSI
 tags:
-  - SixtyFive 2021
+  - 2021 SixtyFive
 ---
 
-`SixtyFive 2021`
+`2021 SixtyFive`
 
-![SixtyFive 2021 Plate ANSI](../assets/sixtyfive-2021-plate-ansi.png)
+![2021 SixtyFive Plate / ANSI](../assets/sixtyfive-2021-plate-ansi.png)
 
 ## Availability
 
-| Source | Description |
-|:---|:---|
-| **Mode Storefront** | Available for purchase directly from the Mode online store |
-| **Mode Support** | Available by contacting Mode support |
-| **Have it Made** | Design files available for manufacturing at a shop. See "Design Files" |
-| **Third Party** | Available from third-party vendors |
+<div class="grid cards" markdown>
+
+-   :material-hammer-wrench:{ .lg .middle } __Have it Made__
+
+    ---
+
+    Use the Design Files below for having the part made.
+
+    [:octicons-arrow-right-24: Design Files](#design-files){ title="Design Files" }
+
+</div>
 
 ## Design Files
 
-[:material-download: Plate (DXF)](#){ download title="Download plate DXF" }
+[:material-download: Plate (DXF)](../files/sixtyfive-2021-plate-ansi.dxf){ download title="Download plate DXF" }
 
-[:material-download: Plate (STEP)](#){ download title="Download plate STEP" }
-
-[:material-download: Plate (DWG)](#){ download title="Download plate DWG" }
+[:material-download: Plate (STEP)](../files/sixtyfive-2021-plate-ansi.step){ download title="Download plate STEP" }
 
 
 ## Compatible Replacements
 
-[:material-link: Replacement Part Name](#) - Description of replacement
-
-[:material-link: Another Replacement Part](#) - Description of replacement
+[2024 SixtyFive Plate / Universal](./sixtyfive-2024-plate-universal.md) - Backwards compatible plate that supports ANSI and ISO layouts
