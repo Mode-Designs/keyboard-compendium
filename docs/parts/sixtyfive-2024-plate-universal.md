@@ -1,13 +1,10 @@
 ---
-title: 2024 SixtyFive Plate / Universal
-tags:
-  - 2021 SixtyFive
-  - 2024 SixtyFive
+title: 65% Plate / Universal
 ---
 
-`2021 SixtyFive` · `2024 SixtyFive`
+`2024 SixtyFive` `2021 SixtyFive` `2024 Encore`
 
-![2024 SixtyFive Plate / Universal](../assets/sixtyfive-2021-plate-ansi.png)
+![65% Plate / Universal](../assets/sixtyfive-2024-plate-universal.webp)
 
 ## Availability
 
@@ -19,21 +16,20 @@ tags:
 
     Available for purchase directly from Mode.
 
-    [:octicons-arrow-right-24: View product page](https://modedesigns.com/products/sixtyfive-plate){ title="Mode Storefront Link" }
+    [:octicons-link-external-24: View product page](https://modedesigns.com/products/sixtyfive-plate){ target="_blank" rel="noopener" title="Buy from Mode (opens in new tab)" }
 
 -   :material-hammer-wrench:{ .lg .middle } __Have it Made__
 
     ---
 
-    Use the Design Files below for having the part made.
+    Use the design files below to have the part manufactured.
 
     [:octicons-arrow-right-24: Design Files](#design-files){ title="Design Files" }
-
 
 </div>
 
 ## Design Files
 
-[:material-download: Plate (DXF)](#){ download title="Download plate DXF" }
+[:material-download: DXF](../files/sixtyfive-2024-plate-universal.dxf){ download title="Download DXF" }
 
-[:material-download: Plate (STEP)](#){ download title="Download plate STEP" }
+[:material-download: STEP](../files/sixtyfive-2024-plate-universal.step){ download title="Download STEP" }

@@ -1,3 +1,7 @@
-Community-created projects, modifications, and resources for the 2021 SixtyFive will be listed here.
+---
+title: "2021 SixtyFive Community Projects"
+---
 
-Have a project worth sharing? Open an issue or pull request, or reach out to support@modedesigns.com.
+We'll list community-created projects, modifications, and resources for the 2021 SixtyFive here as they're shared.
+
+Made something worth sharing? [Open a GitHub issue](https://github.com/Mode-Designs/keyboard-compendium/issues) and we'll take a look.

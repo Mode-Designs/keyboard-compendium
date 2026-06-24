@@ -1,12 +1,10 @@
 ---
 title: 2021 SixtyFive Plate / ANSI
-tags:
-  - 2021 SixtyFive
 ---
 
 `2021 SixtyFive`
 
-![2021 SixtyFive Plate / ANSI](../assets/sixtyfive-2021-plate-ansi.png)
+![2021 SixtyFive Plate / ANSI](../assets/sixtyfive-2021-plate-ansi.webp)
 
 ## Availability
 
@@ -16,7 +14,7 @@ tags:
 
     ---
 
-    Use the Design Files below for having the part made.
+    Use the design files below to have the part manufactured.
 
     [:octicons-arrow-right-24: Design Files](#design-files){ title="Design Files" }
 
@@ -24,11 +22,6 @@ tags:
 
 ## Design Files
 
-[:material-download: Plate (DXF)](../files/sixtyfive-2021-plate-ansi.dxf){ download title="Download plate DXF" }
+[:material-download: DXF](../files/sixtyfive-2021-plate-ansi.dxf){ download title="Download DXF" }
 
-[:material-download: Plate (STEP)](../files/sixtyfive-2021-plate-ansi.step){ download title="Download plate STEP" }
-
-
-## Compatible Replacements
-
-[2024 SixtyFive Plate / Universal](./sixtyfive-2024-plate-universal.md) - Backwards compatible plate that supports ANSI and ISO layouts
+[:material-download: STEP](../files/sixtyfive-2021-plate-ansi.step){ download title="Download STEP" }

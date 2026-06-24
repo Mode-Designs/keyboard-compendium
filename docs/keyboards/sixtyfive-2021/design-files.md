@@ -1,33 +1,31 @@
-## Design Files
+---
+title: "2021 SixtyFive Design Files"
+---
 
-!!! info "Not for commercial use"
+!!! info "Using these files"
 
-    These files are intended for personal use only. You may work with shops to have plates produced but they may not be used for producing and marketing plates with Mode branding or implying any association with Mode.
+    Free to use, modify, and manufacture for yourself or commercially, under the project [license](../../license.md). Just don't put Mode's name or logo on parts you sell or share, or imply Mode made them ("compatible with this board" is fine). Files are provided **as is**, with no warranty; you're responsible for what you make.
 
-### Plates
+## Bottom Case
+
+2021 SixtyFive Backpiece  
+[:material-download: STEP](../../files/sixtyfive-2021-backpiece.step){ download }
+
+## Plate
 
 2021 SixtyFive Plate / ANSI  
-[:material-download: Download (DXF)](#){ download title="Download ANSI plate DXF" }  
-[:material-download: Download (STEP)](#){ download title="Download ANSI plate STEP" }
-
-2021 SixtyFive Plate / ANSI Half  
-[:material-download: Download (DXF)](#){ download title="Download ANSI Half plate DXF" }  
-[:material-download: Download (STEP)](#){ download title="Download ANSI Half plate STEP" }
+[:material-download: DXF](../../files/sixtyfive-2021-plate-ansi.dxf){ download } [:material-download: STEP](../../files/sixtyfive-2021-plate-ansi.step){ download }
 
 2021 SixtyFive Plate / ISO  
-[:material-download: DXF](#){ download title="Download ISO plate DXF" }  
-[:material-download: STEP](#){ download title="Download ISO plate STEP" }
+[:material-download: DXF](../../files/sixtyfive-2021-plate-iso.dxf){ download } [:material-download: STEP](../../files/sixtyfive-2021-plate-iso.step){ download }
 
-2024 SixtyFive Plate / Universal  
-[:material-download: DXF](#){ download title="Download universal plate DXF" }  
-[:material-download: STEP](#){ download title="Download universal plate STEP" }
+2021 SixtyFive Plate / ANSI Half  
+[:material-download: DXF](../../files/sixtyfive-2021-plate-ansi-half.dxf){ download } [:material-download: STEP](../../files/sixtyfive-2021-plate-ansi-half.step){ download }
 
-### Case
+65% Plate / Universal  
+[:material-download: DXF](../../files/sixtyfive-2024-plate-universal.dxf){ download } [:material-download: STEP](../../files/sixtyfive-2024-plate-universal.step){ download }
 
-[:material-download: Backpiece (STEP)](#){ download title="Download backpiece STEP" }
+## Acoustics
 
-### Accessories
-
-[:material-download: Plate Caps (STEP)](#){ download title="Download plate caps STEP" }
-
-[:material-download: Silicone Base (STEP)](#){ download title="Download silicone base STEP" }
+2021 SixtyFive Silicone Base  
+[:material-download: STEP](../../files/sixtyfive-2021-silicone-base.step){ download }

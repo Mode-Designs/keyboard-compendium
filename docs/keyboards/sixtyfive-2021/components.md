@@ -1,118 +1,70 @@
-As a legacy product, some components such as those related to the case are no longer in production. However, critical components that may need to be replaced to keep existing boards functional have either in-stock parts, are standard and available through third party sites, or can be produced by a shop with the provided design files.
+---
+title: "2021 SixtyFive Components"
+---
 
-## Terminology
+The parts below are compatible with the 2021 SixtyFive.
 
-| Category | Term | Definition |
-|:---|:---|:---|
-| **Version** | **Original** | The original design at release |
-| | **Updated** | An updated but compatible part |
-| | **Standard** | A common part available outside of Mode |
-| **Availability** | `Mode` | Available for purchase directly from the Mode online store |
-| | `Support` | Available by contacting support@modedesigns.com |
-| | `Have it Made` | Design files available for manufacturing at a shop. See "Design Files" |
-| | `Third Party` | Available from third-party vendors |
-| | `Unavailable` | The part cannot be made or purchased
-
+Version and availability terms are defined in [Conventions](../../index.md#conventions).
 
 ## Top Case
 
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| 2021 SixtyFive Top | Original | `Unavailable` |
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [2021 SixtyFive Top](../../parts/sixtyfive-2021-top-case.md#availability){ data-preview } | Original | `Unavailable` |  |
 
 ## Bottom Case
 
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| 2021 SixtyFive Bottom | Original | `Unavailable` |
-
-## Accent
-
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| 2021 SixtyFive Backpiece | Original | `Unavailable` |
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [2021 SixtyFive Bottom](../../parts/sixtyfive-2021-bottom-case.md#availability){ data-preview } | Original | `Unavailable` |  |
+| [2021 SixtyFive Backpiece](../../parts/sixtyfive-2021-backpiece.md#availability){ data-preview } | Original | `Have it Made` |  |
 
 ## Plate
 
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-|  [:material-link: 2021 SixtyFive Plate / ANSI](../../parts/sixtyfive-2021-plate-ansi.md#availability){ data-preview } | Original | `Mode`  `Have it Made` |
-| 2024 SixtyFive Plate / Universal | Updated | `Mode`  `Have it Made` |
-| 2024 SixtyFive Plate / ANSI | Updated | `Have it Made` |
-| 2021 SixtyFive Plate / ISO | Original | `Mode`  `Have it Made` |
-| 2024 SixtyFive Plate / ISO | Updated | `Have it Made` |
-| 2021 SixtyFive Plate | Original | `Mode`  `Have it Made` |
-| 2024 SixtyFive Plate / ANSI Half | Updated | `Have it Made` |
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [2021 SixtyFive Plate / ANSI](../../parts/sixtyfive-2021-plate-ansi.md#availability){ data-preview } | Original | `Have it Made` |  |
+| [2021 SixtyFive Plate / ISO](../../parts/sixtyfive-2021-plate-iso.md#availability){ data-preview } | Original | `Have it Made` |  |
+| [2021 SixtyFive Plate / ANSI Half](../../parts/sixtyfive-2021-plate-ansi-half.md#availability){ data-preview } | Original | `Have it Made` |  |
+| [65% Plate / Universal](../../parts/sixtyfive-2024-plate-universal.md#availability){ data-preview } | Updated | `Mode` `Have it Made` |  |
 
-## Silicone Base
+## Acoustics
 
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| 2021 SixtyFive Silicone Base | Original | `Unavailable` |
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [2021 SixtyFive Silicone Base](../../parts/sixtyfive-2021-silicone-base.md#availability){ data-preview } | Original | `Unavailable` |  |
 
-## Daughterboard
+## Mounting Hardware
 
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| C3 Unified USB-C Daughterboard | Updated | `Mode` |
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [Plate Caps](../../parts/plate-caps.md#availability){ data-preview } | Updated | `Mode` |  |
 
-## JST Cable
+## PCB & Electronics
 
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| JST Cable | Updated | `Mode` |
-
-## PCB
-
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| 2021 SixtyFive PCB / ANSI Hotswap | Original | `Unavailable` |
-| 2021 SixtyFive PCB / ISO Hotswap | Original | `Unavailable` |
-| 2021 SixtyFive PCB / Solder | Original | `Unavailable` |
-| 65% PCB / Hotswap - M65H V1 | Updated | `Mode` |
-| 65% PCB / Solder - M65S V1 | Updated | `Mode` |
-| 65% PCB / Hotswap - M65H V2 | Updated | `Mode` |
-| 65% PCB / Solder - M65S V2 | Updated | `Mode` |
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [C3 Unified USB-C Daughterboard](../../parts/pcb-c3-daughterboard.md#availability){ data-preview } | Updated | `Mode` |  |
+| [PCB to C3 Daughterboard Interconnect](../../parts/jst-interconnect.md#availability){ data-preview } | Standard | `Mode` |  |
+| [65% PCB / ANSI Hotswap / M65HA](../../parts/pcb-m65ha.md#availability){ data-preview } | Updated | `Unavailable` | Compatible with 65% PCB / Hotswap / M65H V2. |
+| [65% PCB / ISO Hotswap / M65HI](../../parts/pcb-m65hi.md#availability){ data-preview } | Updated | `Unavailable` | Compatible with 65% PCB / Hotswap / M65H V2, 65% PCB / Solder / M65S V2. |
+| [65% PCB / Solder / M65S](../../parts/pcb-m65s.md#availability){ data-preview } | Updated | `Unavailable` | Compatible with 65% PCB / Solder / M65S V2. |
+| [65% PCB / Hotswap / M256-WH](../../parts/pcb-m256-wh.md#availability){ data-preview } | Updated | `Mode` | Compatible with 65% PCB / Hotswap / M65H V2. |
+| [65% PCB / Solder /  M256-WS](../../parts/pcb-m256-ws.md#availability){ data-preview } | Updated | `Unavailable` | Compatible with 65% PCB / Solder / M65S V2. |
+| [65% PCB / Hotswap / M65H V2](../../parts/pcb-m65h-v2.md#availability){ data-preview } | Updated | `Mode` |  |
+| [65% PCB / Solder / M65S V2](../../parts/pcb-m65s-v2.md#availability){ data-preview } | Updated | `Mode` |  |
 
 ## Feet
 
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| 2021 SixtyFive Feet | Original | `Mode` |
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [2021 SixtyFive Feet](../../parts/sixtyfive-2021-feet.md#availability){ data-preview } | Original | `Mode` `Third Party` |  |
 
-## Isolated Top Mount Plate Caps
+## Fasteners
 
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| Plate Caps | Original | `Mode` |
-
-## Case Fasteners
-
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| M2x5 Button head x4 | Standard | `Third Party` |
-
-## Daughterboard Fasteners
-
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| M2x3 Socket head cap x4 | Standard | `Mode`  `Third Party` |
-
-## Hotswap Fasteners
-
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| M2x5 Flat Head x4 | Standard | `Third Party` |
-| M2x4 Flat Head x4 | Standard | `Mode`  `Third Party` |
-
-## Silicone Base Fasteners
-
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| M2x5 Flat Head x2 | Standard | `Third Party` |
-
-## Top Mount Fasteners
-
-| Compatible Parts | Version | Availability |
-|:---|:---|:---|
-| M2x5 Button head x6 | Standard | `Third Party` |
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x4 Flat Head x4](../../parts/m2-4-flat.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x5mm Flat Head Cap](../../parts/m2-5-flat.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x5 Button Head Cap](../../parts/m2-5-button.md#availability){ data-preview } | Standard | `Third Party` |  |
