@@ -8,7 +8,7 @@ Here you'll find:
 - Replacement part details and compatibility notes
 - CAD files for certain parts, where appropriate
 - Links to common third-party parts where they make sense
-- A directory of vetted community projects and resources
+- A directory of community projects and resources
 
 If you're not sure where to start:
 
@@ -33,6 +33,8 @@ mkdocs serve
 - **Displayed names** (page titles, tags, tables, prose) are year-then-name: "2021 SixtyFive Plate / ANSI"
 - New part pages start from `templates/part.md`
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full authoring guide: information hierarchy, controlled vocabularies, and file organization.
+
 ## License
 
-Design files and content are for personal, non-commercial use only. See [LICENSE.md](LICENSE.md).
+This repository is multi-licensed: Mode's design files (CAD) under **CERN-OHL-P-2.0**, documentation and images under **CC BY 4.0**, and site code under **MIT** (full texts in [`LICENSES/`](LICENSES/)). You're free to make parts for yourself or commercially, but don't put Mode branding on them or imply Mode made them. "Mode" and the product names are trademarks of Mode Designs LLC. Everything is provided as is, with no warranty. See [LICENSE.md](LICENSE.md) for the full terms.

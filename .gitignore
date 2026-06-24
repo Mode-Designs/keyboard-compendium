@@ -8,6 +8,6 @@ site/
 __pycache__/
 .venv/
 
-# Local working files — source sheet, export checklists, and other references
+# Local working files: source sheet, export checklists, and other references
 references/
 *.xlsx

@@ -65,5 +65,5 @@ tags:
 Conventions:
 - File name / URL slug: name-then-year (sixtyfive-2021-plate-ansi.md)
 - Displayed names (title, tags, chips, headings): year-then-name (2021 SixtyFive Plate / ANSI)
-- Only include availability cards that apply to the part — no placeholder "#" links on real pages.
+- Only include availability cards that apply to the part; no placeholder "#" links on real pages.
 -->
