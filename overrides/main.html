@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+<!--
+  Pre-launch review: keep the site out of search engines while it is shared
+  with the team. Remove this override (and theme.custom_dir in mkdocs.yml) to
+  allow indexing at launch.
+-->
+{% block extrahead %}
+  <meta name="robots" content="noindex, nofollow">
+{% endblock %}

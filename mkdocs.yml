@@ -5,6 +5,7 @@ copyright: Copyright &copy; 2026 Mode Designs LLC. Openly licensed; "Mode" and p
 repo_url: https://github.com/Mode-Designs/keyboard-compendium
 theme:
   name: material
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   features:
