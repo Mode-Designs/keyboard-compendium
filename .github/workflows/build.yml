@@ -1,9 +1,16 @@
-name: Build
+name: Build & Deploy
 
 on:
   push:
     branches: [main]
   pull_request:
+  workflow_dispatch:
+
+# Least-privilege token, plus the id-token the Pages deploy needs.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -15,3 +22,26 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: mkdocs build --strict
+      # Package the built site for Pages. PRs only validate the build above;
+      # the artifact is uploaded (and deployed) only from main.
+      - uses: actions/configure-pages@v5
+        if: github.ref == 'refs/heads/main'
+      - uses: actions/upload-pages-artifact@v4
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    # One Pages deployment at a time; let an in-flight production deploy finish.
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

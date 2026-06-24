@@ -1,6 +1,6 @@
 @font-face {
     font-family: "PPNeueMontreal-Regular";
-    src: url("../assets/PPNeueMontreal-Regular.woff2") format("woff2");
+    src: url("../theme/PPNeueMontreal-Regular.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "PPNeueMontrealMono-Regular";
-    src: url("../assets/PPNeueMontrealMono-Regular.woff2") format("woff2");
+    src: url("../theme/PPNeueMontrealMono-Regular.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -16,13 +16,52 @@
 
 @font-face {
     font-family: "PPMondwest-Regular";
-    src: url("../assets/PPMondwest-Regular.woff2") format("woff2");
+    src: url("../theme/PPMondwest-Regular.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 
+
+/* Header source link: show only the GitHub icon, end-aligned (no repo name, no reserved width) */
+.md-source__repository { display: none; }
+.md-header__source { width: auto; max-width: none; margin-left: auto; }
+
+/* Thin border around the primary (left) side nav menu (matches table borders) */
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  border: 0.5px solid var(--md-typeset-table-color);
+  border-radius: 0;
+  padding: 0.6rem;
+}
+
+/* Top-level nav section ("Keyboards") reads like a file-tree folder label:
+   normal case, slightly heavier, with its items indented beneath it. */
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav__link,
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav__link .md-nav__link {
+  text-transform: none;
+  letter-spacing: normal;
+  font-weight: 600 !important;
+  color: var(--md-default-fg-color);
+}
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav {
+  padding-left: 0.6rem;
+}
+
+/* Darker, monochromatic scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--md-default-fg-color) 50%, transparent) transparent;
+}
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background-color: color-mix(in srgb, var(--md-default-fg-color) 50%, transparent);
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: color-mix(in srgb, var(--md-default-fg-color) 70%, transparent);
+}
 
 [data-md-color-scheme="mode"] {
     --color-green: oklch(0.339 0.0503 150.99);

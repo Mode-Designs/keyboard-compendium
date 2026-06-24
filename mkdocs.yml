@@ -1,21 +1,21 @@
 site_name: Keyboard Compendium
 # TODO: confirm final production URL before launch
 site_url: https://compendium.modedesigns.com/
-copyright: Copyright &copy; 2026 Mode Designs LLC. All rights reserved.
+copyright: Copyright &copy; 2026 Mode Designs LLC. Openly licensed; "Mode" and product names are trademarks of Mode Designs LLC.
+repo_url: https://github.com/Mode-Designs/keyboard-compendium
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.sections
     - navigation.path
     - navigation.indexes
-    - navigation.expand
-    - navigation.instant
-    - navigation.instant.progress
   palette:
     scheme: mode
     primary: custom
-  logo: assets/logo.svg
-  favicon: assets/favicon.png
+  logo: theme/logo.svg
+  favicon: theme/favicon.png
   # Fonts are self-hosted via stylesheets/extra.css; Material's font setting
   # only loads from Google Fonts.
   font: false
@@ -47,12 +47,67 @@ markdown_extensions:
 not_in_nav: |
   parts/*.md
 nav:
-  - index.md
-  - Back to Storefront: https://modedesigns.com
+  - Start Here: index.md
+  - PCBs & Firmware: pcbs.md
   - Keyboards:
+    - 2026 Encore:
+      - keyboards/encore-2026/index.md
+      - Components: keyboards/encore-2026/components.md
+      - Design Files: keyboards/encore-2026/design-files.md
+      - Community Projects: keyboards/encore-2026/community-projects.md
+    - 2026 Sonnet:
+      - keyboards/sonnet-2026/index.md
+      - Components: keyboards/sonnet-2026/components.md
+      - Design Files: keyboards/sonnet-2026/design-files.md
+      - Community Projects: keyboards/sonnet-2026/community-projects.md
+    - 2024 Encore:
+      - keyboards/encore-2024/index.md
+      - Components: keyboards/encore-2024/components.md
+      - Design Files: keyboards/encore-2024/design-files.md
+      - Community Projects: keyboards/encore-2024/community-projects.md
+    - 2024 SixtyFive:
+      - keyboards/sixtyfive-2024/index.md
+      - Components: keyboards/sixtyfive-2024/components.md
+      - Design Files: keyboards/sixtyfive-2024/design-files.md
+      - Community Projects: keyboards/sixtyfive-2024/community-projects.md
+    - 2024 Sonnet:
+      - keyboards/sonnet-2024/index.md
+      - Components: keyboards/sonnet-2024/components.md
+      - Design Files: keyboards/sonnet-2024/design-files.md
+      - Community Projects: keyboards/sonnet-2024/community-projects.md
+    - Envoy:
+      - keyboards/envoy/index.md
+      - Components: keyboards/envoy/components.md
+      - Design Files: keyboards/envoy/design-files.md
+      - Community Projects: keyboards/envoy/community-projects.md
+    - Loop:
+      - keyboards/loop/index.md
+      - Components: keyboards/loop/components.md
+      - Design Files: keyboards/loop/design-files.md
+      - Community Projects: keyboards/loop/community-projects.md
+    - Tempo:
+      - keyboards/tempo/index.md
+      - Components: keyboards/tempo/components.md
+      - Design Files: keyboards/tempo/design-files.md
+      - Community Projects: keyboards/tempo/community-projects.md
+    - 2022 Eighty:
+      - keyboards/eighty-2022/index.md
+      - Components: keyboards/eighty-2022/components.md
+      - Design Files: keyboards/eighty-2022/design-files.md
+      - Community Projects: keyboards/eighty-2022/community-projects.md
+    - 2022 Sonnet:
+      - keyboards/sonnet-2022/index.md
+      - Components: keyboards/sonnet-2022/components.md
+      - Design Files: keyboards/sonnet-2022/design-files.md
+      - Community Projects: keyboards/sonnet-2022/community-projects.md
     - 2021 SixtyFive:
       - keyboards/sixtyfive-2021/index.md
       - Components: keyboards/sixtyfive-2021/components.md
       - Design Files: keyboards/sixtyfive-2021/design-files.md
       - Community Projects: keyboards/sixtyfive-2021/community-projects.md
-  - About: about.md
+    - 2020 Eighty:
+      - keyboards/eighty-2020/index.md
+      - Components: keyboards/eighty-2020/components.md
+      - Design Files: keyboards/eighty-2020/design-files.md
+      - Community Projects: keyboards/eighty-2020/community-projects.md
+  - License: license.md
