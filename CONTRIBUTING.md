@@ -110,8 +110,8 @@ Status chips, in this order, rendered as inline code spans joined by ` · `:
 
 - `title:` frontmatter (display name + " Components").
 - A short, factual intro (e.g. note legacy status and what that means for sourcing).
-- A link to the shared **[Conventions](../../conventions.md)** page for Version and Availability
-  terms; **do not** re-table the terminology on each board.
+- A link to the shared **[Conventions](../../index.md#conventions)** section for Version and
+  Availability terms; **do not** re-table the terminology on each board.
 - One `##` section per component category, in the **canonical order** below. Omit categories the
   board doesn't have; do not invent new ones without maintainer sign-off.
 - Each section is a three-column table:
@@ -195,7 +195,8 @@ M2 fasteners) stay as a Components table row only.
 
 ## Controlled vocabularies
 
-These live on the shared **Conventions** page and must be used verbatim.
+These live in the homepage's **Conventions** section (`docs/index.md#conventions`) and must be
+used verbatim.
 
 **Version**
 
