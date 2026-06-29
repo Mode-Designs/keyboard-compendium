@@ -363,7 +363,6 @@ body {
     box-shadow: none;
 }
 
-/* H1: 3rem → 5rem */
 .md-typeset h1 {
     font-family: var(--font-serif-display), serif;
     font-weight: 300;
@@ -372,6 +371,16 @@ body {
     /* keep if you still want the optical tweaks */
     margin-left: clamp(-2px, -0.2vw, -3px);
     letter-spacing: clamp(-1.44px, -0.2vw, -2.4px);
+}
+
+/* Homepage hero headline only: roughly double the site-wide H1 toward the
+   ~5rem this file already anticipated, for a hero feel closer to the marketing
+   site. Scoped to the .hero-headline class set on the homepage H1 (docs/index.md)
+   so dense reference-page titles (board, part, Components) keep the 2.75em size
+   above. clamp() keeps it responsive on narrow viewports. */
+.md-typeset h1.hero-headline {
+    font-size: clamp(3.25rem, 7vw, 5rem);
+    line-height: 1.05;
 }
 
 h2, h3, h4, h5, h6 {

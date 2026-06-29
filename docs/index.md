@@ -1,4 +1,4 @@
-# Mode Keyboard Compendium
+# Mode Keyboard Compendium { .hero-headline }
 
 We built this compendium so you can keep your Mode keyboard on the desk and make it your own. It's open source, owned and maintained by us at Mode, and it covers every board we've made: part details, cross-compatibility, availability, and design files.
 
