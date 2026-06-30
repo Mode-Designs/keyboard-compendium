@@ -144,7 +144,7 @@ owners' rights. The licenses above apply only to material Mode authored and owns
 
 If any provision of these additional terms is held unenforceable, the remaining provisions stay
 in effect. These terms, and any dispute relating to this project, are governed by the laws of
-**[GOVERNING-LAW STATE]**, without regard to its conflict-of-laws rules. Mode may update the
+**California**, without regard to its conflict-of-laws rules. Mode may update the
 licensing for future versions of this project; material you have already downloaded remains under
 the terms in effect when you downloaded it.
 
