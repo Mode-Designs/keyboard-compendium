@@ -16,3 +16,6 @@ CAD files you can use to have replacement or custom parts made.
 
 ## [:material-link: Community Projects](community-projects.md)
 Community-created projects, modifications, and resources we've gathered.
+
+## [:material-link: Build Guide](https://modedesigns.com/pages/sonnet-guide-2024)
+Step-by-step assembly instructions on modedesigns.com.
