@@ -396,7 +396,6 @@ body {
     box-shadow: none;
 }
 
-/* H1: 3rem → 5rem */
 .md-typeset h1 {
     font-family: var(--font-serif-display), serif;
     font-weight: 300;
@@ -405,6 +404,15 @@ body {
     /* keep if you still want the optical tweaks */
     margin-left: clamp(-2px, -0.2vw, -3px);
     letter-spacing: clamp(-1.44px, -0.2vw, -2.4px);
+}
+
+/* Homepage hero headline only. Scoped by the H1's slug id so the compact
+   default size above still governs reference and content page titles
+   (Components, parts, pcbs, license). Enlarged to ~2x the default, toward
+   the hero feel of modedesigns.com. Tied to the "Mode Keyboard Compendium"
+   heading text; if that text changes the headline reverts to the size above. */
+.md-typeset h1#mode-keyboard-compendium {
+    font-size: clamp(3.25rem, 5.5vw, 5rem);
 }
 
 h2, h3, h4, h5, h6 {
