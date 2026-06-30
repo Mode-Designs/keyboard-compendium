@@ -1,7 +1,9 @@
 site_name: Keyboard Compendium
 site_url: https://compendium.modedesigns.com/
+site_description: "A reference for keeping Mode keyboards on the desk: parts, cross-compatibility, availability, and design files for every board Mode has made."
 copyright: Copyright &copy; 2026 Mode Designs LLC. Openly licensed; "Mode" and product names are trademarks of Mode Designs LLC.
 repo_url: https://github.com/Mode-Designs/keyboard-compendium
+edit_uri: edit/main/docs/
 theme:
   name: material
   custom_dir: overrides
@@ -11,10 +13,11 @@ theme:
     - navigation.sections
     - navigation.path
     - navigation.indexes
+    - content.action.edit
   palette:
     # Defaults to the visitor's system preference; the header toggle switches
     # and persists the choice. Light = custom "mode" scheme; dark = "slate"
-    # (Material's dark base) re-skinned to a brown ground in extra.css.
+    # (Material's dark base) re-skinned to a green ground in extra.css.
     - media: "(prefers-color-scheme: light)"
       scheme: mode
       primary: custom

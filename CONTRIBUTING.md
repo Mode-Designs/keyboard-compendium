@@ -11,6 +11,8 @@ only for edge cases that genuinely help users, and call the deviation out in you
 
 ## Local setup & build
 
+Requires Python 3.12 (matching CI).
+
 ```sh
 pip install -r requirements.txt
 mkdocs serve            # local preview at http://127.0.0.1:8000
@@ -239,5 +241,13 @@ used verbatim.
 
 ## Submitting changes
 
-Open an issue or pull request. Keep `mkdocs build --strict` green. For data questions or to
-report an error, you can also reach support@modedesigns.com.
+Open a pull request for content changes (wording, structure, fixing a typo or broken link), and
+keep `mkdocs build --strict` green.
+
+**Proposing a data change.** Compatibility, availability, sourcing, version, production-year, and
+status values are authoritative data: the source of truth is the maintainer's source spreadsheet
+(the gitignored `references/`), and the published tables mirror it. Don't change these with a PR
+that edits a table value; instead open an issue (or email support@modedesigns.com) with the board
+and part, the current value, the proposed value, and a source for it. The maintainer verifies it
+against the source and publishes the change. This is the factual-reference rule at the top of this
+guide: never invent or derive part facts.

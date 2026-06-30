@@ -1,10 +1,27 @@
 {% extends "base.html" %}
 
-<!--
-  Pre-launch review: keep the site out of search engines while it is shared
-  with the team. Remove this override (and theme.custom_dir in mkdocs.yml) to
-  allow indexing at launch.
--->
 {% block extrahead %}
+  <!--
+    Pre-launch: keep the site out of search engines while it is shared with the
+    team. AT LAUNCH, delete only the robots <meta> line below to allow indexing.
+    Keep the rest of this file (and theme.custom_dir) for the Open Graph tags.
+  -->
   <meta name="robots" content="noindex, nofollow">
+
+  {# Open Graph / Twitter Card metadata for link previews. Material does not emit
+     these without the social plugin; site_description supplies the description. #}
+  {% if page and page.title and not page.is_homepage %}
+    {% set og_title = page.title ~ " · " ~ config.site_name %}
+  {% else %}
+    {% set og_title = config.site_name %}
+  {% endif %}
+  {% set og_desc = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ og_title }}">
+  {% if og_desc %}<meta property="og:description" content="{{ og_desc }}">{% endif %}
+  {% if page.canonical_url %}<meta property="og:url" content="{{ page.canonical_url }}">{% endif %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ og_title }}">
+  {% if og_desc %}<meta name="twitter:description" content="{{ og_desc }}">{% endif %}
 {% endblock %}
