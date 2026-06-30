@@ -79,11 +79,6 @@
     /* #2B323D */
     --color-brown: oklch(0.3601 0.0502 62.39);
     /* #4C3824 */
-    /* Dark-scheme brown surfaces, derived from --color-brown (hue 62.39).
-       DERIVED, not pulled from Figma; confirm against the Mode brown ramp. */
-    --color-brown-800: oklch(0.3 0.04 62.39);
-    --color-brown-850: oklch(0.265 0.034 62.39);
-    --color-brown-900: oklch(0.225 0.028 62.39);
     --color-white: oklch(0.9829 0.0096 81.63);
     /* #FCF9F3 */
     --color-cream: oklch(0.9559 0.0187 85.35);
@@ -291,59 +286,63 @@
 }
 
 /* -------------------------------------------------------------------------- */
-/* Dark scheme: brown-based. Overrides the light semantic tokens above, plus  */
-/* the few MkDocs tokens hard-mapped to light Mode shades in the :root>* block.*/
-/* Mode green/yellow accents are kept; greens are lifted to lighter shades so  */
-/* they stay legible on the dark brown ground.                                 */
+/* Dark scheme: green-based, ported from modedesigns.com's `.dark` palette.    */
+/* The Mode --color-* ramps are identical on both sites, so these map the main */
+/* site's dark semantic tokens onto MkDocs' --md-* tokens 1:1. The exceptions  */
+/* are noted inline: tokens that drive link / active-nav / focus TEXT in       */
+/* Material (primary, ring, sidebar-primary) are lifted to a lighter green,    */
+/* because the main site uses those tokens only as fills (with their own light */
+/* foreground), where the literal --color-green would be illegible as text on  */
+/* the dark green ground.                                                      */
 /* -------------------------------------------------------------------------- */
 [data-md-color-scheme="slate"] {
-    --md-background: var(--color-brown-900);
-    --md-foreground: var(--color-warm-200);
+    --md-background: var(--color-green-850);
+    --md-foreground: var(--color-warm-300);
     --md-card: transparent;
     --md-card-foreground: var(--color-warm-200);
-    --md-grid-line: var(--color-brown-850);
-    --md-grid-line-bold: var(--color-warm-600);
-    --md-popover: var(--color-brown-800);
+    --md-grid-line: var(--color-green-400);
+    --md-grid-line-bold: var(--color-warm-300);
+    --md-popover: var(--color-black);
     --md-popover-foreground: var(--color-warm-200);
-    --md-primary: var(--color-green-300);
-    --md-primary-foreground: var(--color-brown-900);
-    --md-secondary: var(--color-yellow);
-    --md-secondary-foreground: var(--color-brown-900);
-    --md-muted: var(--color-brown-800);
-    --md-muted-foreground: var(--color-warm-400);
+    --md-primary: var(--color-green-300);            /* site: --color-green; lifted for legible link text */
+    --md-primary-foreground: var(--color-warm-200);
+    --md-secondary: var(--color-warm-100);
+    --md-secondary-foreground: var(--color-green-850);
+    --md-muted: var(--color-warm-800);
+    --md-muted-foreground: var(--color-warm-500);
     --md-accent: var(--color-yellow);
-    --md-accent-foreground: var(--color-brown-900);
+    --md-accent-foreground: var(--color-green);
     --md-additive: var(--color-green-400);
     --md-destructive: var(--color-orange);
     --md-destructive-foreground: var(--color-warm-200);
-    --md-border: var(--color-brown);
-    --md-input: var(--color-brown);
-    --md-ring: var(--color-green-300);
-    --md-sidebar: var(--color-brown-850);
+    --md-border: var(--color-green-300);
+    --md-input: var(--color-green-300);
+    --md-ring: var(--color-green-300);               /* site: --color-green; matches lifted primary for a visible focus ring */
+    --md-sidebar: var(--color-black);
     --md-sidebar-foreground: var(--color-warm-200);
-    --md-sidebar-primary: var(--color-green-300);
-    --md-sidebar-primary-foreground: var(--color-brown-900);
+    --md-sidebar-primary: var(--color-green-300);    /* site: --color-green; lifted for legible active-nav text */
+    --md-sidebar-primary-foreground: var(--color-warm-200);
     --md-sidebar-accent: var(--color-yellow);
-    --md-sidebar-accent-foreground: var(--color-brown-900);
-    --md-sidebar-border: var(--color-brown);
+    --md-sidebar-accent-foreground: var(--color-green);
+    --md-sidebar-border: var(--color-green-300);
     --md-sidebar-ring: var(--color-green-300);
     --md-success: var(--color-green-400);
     --md-success-foreground: var(--color-warm-200);
     --md-warning: var(--color-yellow);
-    --md-warning-foreground: var(--color-brown-900);
+    --md-warning-foreground: var(--color-green-850);
     --md-info: var(--color-cool-300);
-    --md-info-foreground: var(--color-brown-900);
+    --md-info-foreground: var(--color-green-850);
     --md-neutral: var(--color-warm-400);
-    --md-neutral-foreground: var(--color-brown-900);
+    --md-neutral-foreground: var(--color-green-850);
     --md-highlight: var(--color-salmon);
-    --md-highlight-foreground: var(--color-brown-900);
+    --md-highlight-foreground: var(--color-green-850);
 
     /* MkDocs tokens hard-mapped to light Mode shades in the :root>* block */
-    --md-default-fg-color--lightest: var(--color-brown-800);
+    --md-default-fg-color--lightest: var(--color-green-800);
     --md-typeset-table-color: var(--color-warm-600);
-    --md-typeset-table-color--light: var(--color-brown-800);
-    --md-footer-bg-color: var(--color-brown-850);
-    --md-footer-bg-color--dark: var(--color-brown-900);
+    --md-typeset-table-color--light: var(--color-green-800);
+    --md-footer-bg-color: var(--color-green-900);
+    --md-footer-bg-color--dark: var(--color-black);
 }
 
 * {
@@ -404,6 +403,9 @@ body {
     /* keep if you still want the optical tweaks */
     margin-left: clamp(-2px, -0.2vw, -3px);
     letter-spacing: clamp(-1.44px, -0.2vw, -2.4px);
+    /* Material's default is 1.25em; in em it scaled badly under the enlarged
+       hero (~6.25rem of dead space). Trim the gap below the title. */
+    margin-bottom: 0.5em;
 }
 
 /* Homepage hero headline only. Scoped by the H1's slug id so the compact
@@ -413,6 +415,16 @@ body {
    heading text; if that text changes the headline reverts to the size above. */
 .md-typeset h1#mode-keyboard-compendium {
     font-size: clamp(3.25rem, 5.5vw, 5rem);
+}
+
+/* Tighten the gap below section headings too (Material defaults: h2 .64em,
+   h3 .8em). Only the space *under* each heading is trimmed; the space above
+   them, which separates sections, is left intact. */
+.md-typeset h2 {
+    margin-bottom: 0.4em;
+}
+.md-typeset h3 {
+    margin-bottom: 0.4em;
 }
 
 h2, h3, h4, h5, h6 {
@@ -525,13 +537,14 @@ h2, h3, h4, h5, h6 {
 
 /* Dark search field: Material fills the header search box with near-black
    (#00000042) at rest and the page background when focused, both of which
-   vanish on the dark brown header. Give it a visible brand-brown surface. */
+   vanish on the dark green header. Give it a visible green surface lifted off
+   the green-850 header ground. */
 [data-md-color-scheme="slate"] .md-search__form,
 [data-md-color-scheme="slate"] [data-md-toggle="search"]:checked ~ .md-header .md-search__form {
-    background-color: var(--color-brown);
+    background-color: var(--color-green-700);
 }
 [data-md-color-scheme="slate"] .md-search__form:hover {
-    background-color: color-mix(in srgb, var(--color-warm-200) 14%, var(--color-brown));
+    background-color: color-mix(in srgb, var(--color-warm-200) 14%, var(--color-green-700));
 }
 [data-md-color-scheme="slate"] .md-search__input::placeholder {
     color: var(--color-warm-400);
