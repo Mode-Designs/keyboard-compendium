@@ -2,7 +2,7 @@
 title: "2024 SixtyFive"
 ---
 
-`Status: Legacy` · `Production Years: 2024–2025` · `Layout: 65%`
+`Status: Legacy` · `Production Years: 2024-2025` · `Layout: 65%`
 
 ![2024 SixtyFive](../../assets/sixtyfive-2024.webp)
 

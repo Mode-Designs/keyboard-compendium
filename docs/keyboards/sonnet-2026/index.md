@@ -2,7 +2,7 @@
 title: "2026 Sonnet"
 ---
 
-`Status: Current` · `Production Years: 2026–present` · `Layout: 75%`
+`Status: Current` · `Production Years: 2026-present` · `Layout: 75%`
 
 ![2026 Sonnet](../../assets/sonnet-2026.webp)
 

@@ -6,7 +6,7 @@ tags:
 
 `2021 SixtyFive`
 
-![2021 SixtyFive Plate / ANSI](../assets/sixtyfive-2021-plate-ansi.png)
+![2021 SixtyFive Plate / ANSI](../assets/sixtyfive-2021-plate-ansi.webp)
 
 ## Availability
 

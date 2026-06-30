@@ -2,7 +2,7 @@
 title: "Loop"
 ---
 
-`Status: Legacy` · `Production Years: 2023–2025` · `Layout: TKL`
+`Status: Legacy` · `Production Years: 2023-2025` · `Layout: TKL`
 
 ![Loop](../../assets/loop.webp)
 

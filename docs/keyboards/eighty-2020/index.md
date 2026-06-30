@@ -2,7 +2,7 @@
 title: "2020 Eighty"
 ---
 
-`Status: Legacy` · `Production Years: 2020–2021` · `Layout: TKL`
+`Status: Legacy` · `Production Years: 2020-2021` · `Layout: TKL`
 
 ![2020 Eighty](../../assets/eighty-2020.webp)
 

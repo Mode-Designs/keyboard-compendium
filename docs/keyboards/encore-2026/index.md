@@ -2,7 +2,7 @@
 title: "2026 Encore"
 ---
 
-`Status: Current` · `Production Years: 2026–present` · `Layout: 65%`
+`Status: Current` · `Production Years: 2026-present` · `Layout: 65%`
 
 ![2026 Encore](../../assets/encore-2026.webp)
 

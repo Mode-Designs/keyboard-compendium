@@ -2,7 +2,7 @@
 title: "Tempo"
 ---
 
-`Status: Legacy` · `Production Years: 2023–2025` · `Layout: 60%`
+`Status: Legacy` · `Production Years: 2023-2025` · `Layout: 60%`
 
 ![Tempo](../../assets/tempo.webp)
 

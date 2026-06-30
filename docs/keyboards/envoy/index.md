@@ -2,7 +2,7 @@
 title: "Envoy"
 ---
 
-`Status: Legacy` · `Production Years: 2023–2025` · `Layout: 65%`
+`Status: Legacy` · `Production Years: 2023-2025` · `Layout: 65%`
 
 ![Envoy](../../assets/envoy.webp)
 

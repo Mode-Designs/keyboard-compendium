@@ -2,7 +2,7 @@
 title: "2022 Sonnet"
 ---
 
-`Status: Legacy` · `Production Years: 2022–2024` · `Layout: 75%`
+`Status: Legacy` · `Production Years: 2022-2024` · `Layout: 75%`
 
 ![2022 Sonnet](../../assets/sonnet-2022.webp)
 
