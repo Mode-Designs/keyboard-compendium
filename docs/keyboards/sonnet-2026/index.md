@@ -6,7 +6,7 @@ title: "2026 Sonnet"
 
 ![2026 Sonnet](../../assets/sonnet-2026.webp)
 
-The Sonnet returns for 2026, refined but not fundamentally changing its DNA. We looked at fitting our new Crown Mounting System, but it would have changed a shape that's become part of Mode's identity, so we left the silhouette and the Lattice Mount alone. We focused on tuning its sound profile and typing feel: a steel weight, microsuede force-break pads, and redesigned feet that calm the resonance and clean up the sound. It comes in five new colorways: Black Sesame, Forest Mocha, Studio Light, Golden Beige, and Steel Mushroom.
+The Sonnet returned for 2026, refined but not fundamentally changing its DNA. We looked at fitting our new Crown Mounting System, but it would have changed a shape that had become part of Mode's identity, so we left the silhouette and the Lattice Mount alone. We focused on tuning its sound profile and typing feel: a steel weight, microsuede force-break pads, and redesigned feet that calmed the resonance and cleaned up the sound. It came in five new colorways: Black Sesame, Forest Mocha, Studio Light, Golden Beige, and Steel Mushroom.
 
 ## [:material-link: Components](components.md)
 Every compatible part for this board, with version and availability details.

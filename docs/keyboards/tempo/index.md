@@ -6,7 +6,7 @@ title: "Tempo"
 
 ![Tempo](../../assets/tempo.webp)
 
-The Tempo is the most pared-back board we've made. It's a 60% in a simple one-piece case with softened edges and one subtle accent at the back. Inside, our lattice block mount gives it a soft, forgiving keystroke, and the one-piece design keeps it simple to build and tune. The Tempo was one of our most opinionated designs and was met with polarized opinions particularly in regards to the layout. That said, it holds a special place in our hearts.
+The Tempo was the most pared-back board we'd made. It was a 60% in a simple one-piece case with softened edges and one subtle accent at the back. Inside, our lattice block mount gave it a soft, forgiving keystroke, and the one-piece design kept it simple to build and tune. The Tempo was one of our most opinionated designs and was met with polarized opinions particularly in regards to the layout. That said, it holds a special place in our hearts.
 
 ## [:material-link: Components](components.md)
 Every compatible part for this board, with version and availability details.

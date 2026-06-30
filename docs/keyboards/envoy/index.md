@@ -6,7 +6,7 @@ title: "Envoy"
 
 ![Envoy](../../assets/envoy.webp)
 
-The Envoy is a refined take on the 65%: compact, heavier than it looks, with a floating side profile. It introduced our Lattice Mounting system, built around a new lattice block mount that suspends the assembly for a soft, cushioned keystroke and lets you tune the feel with different blocks. We launched it alongside our family of keycaps, switches, deskmats, and artisans. The lattice mount went on to be our primary mounting system for several years.
+The Envoy was a refined take on the 65%: compact, heavier than it looked, with a floating side profile. It introduced our Lattice Mounting system, built around a new lattice block mount that suspended the assembly for a soft, cushioned keystroke and let you tune the feel with different blocks. We launched it alongside our family of keycaps, switches, deskmats, and artisans. The lattice mount went on to be our primary mounting system for several years.
 
 ## [:material-link: Components](components.md)
 Every compatible part for this board, with version and availability details.

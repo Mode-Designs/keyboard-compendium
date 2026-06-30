@@ -6,7 +6,7 @@ title: "Loop"
 
 ![Loop](../../assets/loop.webp)
 
-For the Loop, we rebuilt our tenkeyless from scratch. Only the PCB carries over from the Eighty. We drew on retro hi-fi and analog audio: the case splits around a ring, the loop it's named for, an accent bar sits above the function row, and a large oval weight anchors the back behind press-in feet that hide the screws. It was offered in WKL and standard variants, and the lattice block mount comes in three flex levels so you can set how soft or stiff it feels. We also tightened the mount into a more consistent stack that fixed the uneven sound some of our one-piece designs had. The Loop became our flagship TKL and the board where the lattice idea really grew up.
+For the Loop, we rebuilt our tenkeyless from scratch. Only the PCB carried over from the Eighty. We drew on retro hi-fi and analog audio: the case split around a ring, the loop it was named for, an accent bar sat above the function row, and a large oval weight anchored the back behind press-in feet that hid the screws. It was offered in WKL and standard variants, and the lattice block mount came in three flex levels so you could set how soft or stiff it felt. We also tightened the mount into a more consistent stack that fixed the uneven sound some of our one-piece designs had. The Loop became our flagship TKL and the board where the lattice idea really grew up.
 
 ## [:material-link: Components](components.md)
 Every compatible part for this board, with version and availability details.
