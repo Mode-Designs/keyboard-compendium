@@ -44,7 +44,7 @@ homes.
 ## Naming conventions
 
 - **File names and URL slugs** are **name-then-year**: `sixtyfive-2021-plate-ansi.md`
-- **Displayed names** (page titles, tags, chips, table cells, prose) are **year-then-name**:
+- **Displayed names** (page titles, chips, table cells, prose) are **year-then-name**:
   "2021 SixtyFive Plate / ANSI"
 - The working-source folders use the display order (`references/drawings/2021-sixtyfive/…`);
   publishing **reorders to the slug form**.
@@ -168,8 +168,6 @@ Start from `templates/part.md`. Structure:
 ```
 ---
 title: 2021 SixtyFive Plate / ANSI
-tags:
-  - 2021 SixtyFive
 ---
 
 `2021 SixtyFive`
