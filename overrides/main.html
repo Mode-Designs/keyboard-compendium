@@ -1,12 +1,10 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
-  <!--
-    Pre-launch: keep the site out of search engines while it is shared with the
-    team. AT LAUNCH, delete only the robots <meta> line below to allow indexing.
-    Keep the rest of this file (and theme.custom_dir) for the Open Graph tags.
-  -->
-  <meta name="robots" content="noindex, nofollow">
+  {# SEO. Allow indexing with rich result previews; Material already emits the
+     canonical link and meta description from site_url / site_description. To pull
+     the site back out of search, set this to "noindex, nofollow". #}
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
   {# Open Graph / Twitter Card metadata for link previews. Material does not emit
      these without the social plugin; site_description supplies the description. #}
@@ -21,6 +19,7 @@
   <meta property="og:title" content="{{ og_title }}">
   {% if og_desc %}<meta property="og:description" content="{{ og_desc }}">{% endif %}
   {% if page.canonical_url %}<meta property="og:url" content="{{ page.canonical_url }}">{% endif %}
+  <meta property="og:locale" content="en_US">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ og_title }}">
   {% if og_desc %}<meta name="twitter:description" content="{{ og_desc }}">{% endif %}

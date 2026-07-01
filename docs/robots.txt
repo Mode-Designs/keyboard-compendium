@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://compendium.modedesigns.com/sitemap.xml
