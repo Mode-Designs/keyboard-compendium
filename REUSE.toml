@@ -1,0 +1,29 @@
+version = 1
+
+# Machine-readable license mapping (REUSE, https://reuse.software). Human-readable
+# terms live in LICENSE.md and docs/license.md; GitHub still shows "Other" for this
+# multi-licensed repo. Where paths overlap, a later entry overrides an earlier one.
+
+# Default: site tooling, configuration, theme, scripts, and repo meta.
+[[annotations]]
+path = "**"
+SPDX-FileCopyrightText = "2026 Mode Designs LLC"
+SPDX-License-Identifier = "MIT"
+
+# Published documentation, page text, tables, and images.
+[[annotations]]
+path = "docs/**"
+SPDX-FileCopyrightText = "2026 Mode Designs LLC"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+# Mode-authored design files (CAD downloads).
+[[annotations]]
+path = "docs/files/**"
+SPDX-FileCopyrightText = "2026 Mode Designs LLC"
+SPDX-License-Identifier = "CERN-OHL-P-2.0"
+
+# Site chrome and styles are tooling, not documentation.
+[[annotations]]
+path = ["docs/theme/**", "docs/stylesheets/**"]
+SPDX-FileCopyrightText = "2026 Mode Designs LLC"
+SPDX-License-Identifier = "MIT"
