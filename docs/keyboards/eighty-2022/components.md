@@ -63,4 +63,4 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 | [2022 Eighty Fasteners](../../parts/eighty-2022-fasteners.md#availability){ data-preview } | Original | `Mode` |  |
 | [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` | Daughterboard fasteners. |
 | [M2x5 Button Head Cap](../../parts/m2-5-button.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x12mm Socket Head Cap](../../parts/m3-12-socket.md#availability){ data-preview } | Standard | `Third Party` | Case fasteners. |
+| [M3x12mm Socket Head Cap](../../parts/m3-12-socket.md#availability){ data-preview } | Standard | `Third Party` | Case fasteners. |

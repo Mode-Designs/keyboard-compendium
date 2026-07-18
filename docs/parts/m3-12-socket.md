@@ -1,5 +1,5 @@
 ---
-title: M2x12mm Socket Head Cap
+title: M3x12mm Socket Head Cap
 ---
 
 `2020 Eighty` `2022 Eighty`
