@@ -59,5 +59,5 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 
 | Compatible Parts | Version | Availability | Notes |
 |:---|:---|:---|:---|
-| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` | Daughterboard fasteners. |
 | [Envoy Fasteners](../../parts/envoy-fasteners.md#availability){ data-preview } | Original | `Mode` |  |

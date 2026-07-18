@@ -73,9 +73,9 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 
 | Compatible Parts | Version | Availability | Notes |
 |:---|:---|:---|:---|
-| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x10mm Flat Head Cap](../../parts/m2-10-flat.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2.5x5mm Socket Head Cap](../../parts/m2dot5-5-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2.5x12mm Socket Head Cap](../../parts/m2dot5-12-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` | Daughterboard fasteners. |
+| [M2x10mm Flat Head Cap](../../parts/m2-10-flat.md#availability){ data-preview } | Standard | `Third Party` | Ring fasteners. |
+| [M2.5x5mm Socket Head Cap](../../parts/m2dot5-5-socket.md#availability){ data-preview } | Standard | `Third Party` | Weight fasteners. |
+| [M2.5x12mm Socket Head Cap](../../parts/m2dot5-12-socket.md#availability){ data-preview } | Standard | `Third Party` | Front case fasteners. |
 | [M3x16mm Socket Head Cap](../../parts/m3-16-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
 | [Loop Fasteners](../../parts/loop-fasteners.md#availability){ data-preview } | Original | `Mode` |  |

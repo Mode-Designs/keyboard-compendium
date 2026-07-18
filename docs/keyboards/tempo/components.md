@@ -66,6 +66,6 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 | Compatible Parts | Version | Availability | Notes |
 |:---|:---|:---|:---|
 | [Tempo Fasteners](../../parts/tempo-fasteners.md#availability){ data-preview } | Original | `Mode` |  |
-| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2.5x3mm Button Head Cap](../../parts/m2dot5-3-button.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M3x9mm Socket Head Cap](../../parts/m3-9-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` | Daughterboard fasteners. |
+| [M2.5x3mm Button Head Cap](../../parts/m2dot5-3-button.md#availability){ data-preview } | Standard | `Third Party` | Accent and weight fasteners. |
+| [M3x9mm Socket Head Cap](../../parts/m3-9-socket.md#availability){ data-preview } | Standard | `Third Party` | Assembly retaining fasteners. |

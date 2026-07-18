@@ -64,7 +64,7 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 
 | Compatible Parts | Version | Availability | Notes |
 |:---|:---|:---|:---|
-| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x4 Flat Head x4](../../parts/m2-4-flat.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x5mm Flat Head Cap](../../parts/m2-5-flat.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x5 Button Head Cap](../../parts/m2-5-button.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` | Daughterboard fasteners. |
+| [M2x4 Flat Head x4](../../parts/m2-4-flat.md#availability){ data-preview } | Standard | `Third Party` | Hotswap fasteners. |
+| [M2x5mm Flat Head Cap](../../parts/m2-5-flat.md#availability){ data-preview } | Standard | `Third Party` | Damper fasteners. |
+| [M2x5 Button Head Cap](../../parts/m2-5-button.md#availability){ data-preview } | Standard | `Third Party` | Case fasteners. |

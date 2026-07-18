@@ -76,11 +76,11 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 
 | Compatible Parts | Version | Availability | Notes |
 |:---|:---|:---|:---|
-| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` | Daughterboard fasteners. |
 | [M2x5mm Flat Head Cap](../../parts/m2-5-flat.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x5mm Socket Head Cap](../../parts/m2-5-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x10mm Socket Head Cap](../../parts/m2-10-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2.5x10mm Socket Head Cap](../../parts/m2dot5-10-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x5mm Socket Head Cap](../../parts/m2-5-socket.md#availability){ data-preview } | Standard | `Third Party` | Top mount fasteners. |
+| [M2x10mm Socket Head Cap](../../parts/m2-10-socket.md#availability){ data-preview } | Standard | `Third Party` | Accent fasteners. |
+| [M2.5x10mm Socket Head Cap](../../parts/m2dot5-10-socket.md#availability){ data-preview } | Standard | `Third Party` | Case fasteners. |
 | [M3x5mm Flat Head Cap](../../parts/m3-5-flat.md#availability){ data-preview } | Standard | `Third Party` |  |
 | [2024 Sonnet Fasteners](../../parts/sonnet-2024-fasteners.md#availability){ data-preview } | Original | `Mode` | Compatible with 2022 Sonnet Fasteners. |
 | [2022 Sonnet Fasteners](../../parts/sonnet-2022-fasteners.md#availability){ data-preview } | Updated | `Mode` |  |

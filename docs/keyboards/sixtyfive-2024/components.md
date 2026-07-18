@@ -76,7 +76,7 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 
 | Compatible Parts | Version | Availability | Notes |
 |:---|:---|:---|:---|
-| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x4 Flat Head x4](../../parts/m2-4-flat.md#availability){ data-preview } | Standard | `Third Party` |  |
-| [M2x5mm Socket Head Cap](../../parts/m2-5-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
+| [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` | Daughterboard fasteners. |
+| [M2x4 Flat Head x4](../../parts/m2-4-flat.md#availability){ data-preview } | Standard | `Third Party` | Weight, badge, and hotswap fasteners. |
+| [M2x5mm Socket Head Cap](../../parts/m2-5-socket.md#availability){ data-preview } | Standard | `Third Party` | Top mount fasteners. |
 | [M2.5x6mm Socket Head Cap](../../parts/m2dot5-6-socket.md#availability){ data-preview } | Standard | `Third Party` |  |
