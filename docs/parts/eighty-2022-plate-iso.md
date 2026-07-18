@@ -30,6 +30,6 @@ title: 2022 Eighty Plate / ISO
 
 ## Design Files
 
-[:material-download: DXF](../files/eighty-2022-plate-iso.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/eighty-2022-plate-iso.dxf){ download="eighty-2022-plate-iso.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/eighty-2022-plate-iso.step){ download title="Download STEP" }
+[:material-download: STEP](../files/eighty-2022-plate-iso.step){ download="eighty-2022-plate-iso.step" title="Download STEP" }

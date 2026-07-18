@@ -22,6 +22,6 @@ title: 2021 SixtyFive Plate / ANSI
 
 ## Design Files
 
-[:material-download: DXF](../files/sixtyfive-2021-plate-ansi.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/sixtyfive-2021-plate-ansi.dxf){ download="sixtyfive-2021-plate-ansi.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/sixtyfive-2021-plate-ansi.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sixtyfive-2021-plate-ansi.step){ download="sixtyfive-2021-plate-ansi.step" title="Download STEP" }

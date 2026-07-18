@@ -9,15 +9,15 @@ title: "2020 Eighty Design Files"
 ## Plate
 
 2020 Eighty Plate / Ansi  
-[:material-download: DXF](../../files/eighty-2020-plate-ansi.dxf){ download } [:material-download: STEP](../../files/eighty-2020-plate-ansi.step){ download }
+[:material-download: DXF](../../files/eighty-2020-plate-ansi.dxf){ download="eighty-2020-plate-ansi.dxf" } [:material-download: STEP](../../files/eighty-2020-plate-ansi.step){ download="eighty-2020-plate-ansi.step" }
 
 ## Acoustics
 
 2020 Eighty Bottom Gasket / Solder  
-[:material-download: DXF](../../files/eighty-2020-gasket-bottom-s.dxf){ download }
+[:material-download: DXF](../../files/eighty-2020-gasket-bottom-s.dxf){ download="eighty-2020-gasket-bottom-s.dxf" }
 
 2020 Eighty Bottom Gasket / Hotswap  
-[:material-download: DXF](../../files/eighty-2020-gasket-bottom-hs.dxf){ download }
+[:material-download: DXF](../../files/eighty-2020-gasket-bottom-hs.dxf){ download="eighty-2020-gasket-bottom-hs.dxf" }
 
 2020 Eighty Middle Gasket  
-[:material-download: DXF](../../files/eighty-2020-gasket-middle.dxf){ download }
+[:material-download: DXF](../../files/eighty-2020-gasket-middle.dxf){ download="eighty-2020-gasket-middle.dxf" }

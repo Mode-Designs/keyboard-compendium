@@ -22,4 +22,4 @@ title: 2020 Eighty Bottom Gasket / Hotswap
 
 ## Design Files
 
-[:material-download: DXF](../files/eighty-2020-gasket-bottom-hs.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/eighty-2020-gasket-bottom-hs.dxf){ download="eighty-2020-gasket-bottom-hs.dxf" title="Download DXF" }

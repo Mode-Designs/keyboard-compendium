@@ -12,4 +12,4 @@ Not currently available to purchase or have made. Contact [support@modedesigns.c
 
 ## Design Files
 
-[:material-download: DXF](../files/tempo-case-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/tempo-case-foam.dxf){ download="tempo-case-foam.dxf" title="Download DXF" }

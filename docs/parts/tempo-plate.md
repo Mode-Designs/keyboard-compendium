@@ -30,6 +30,6 @@ title: Tempo Plate
 
 ## Design Files
 
-[:material-download: DXF](../files/tempo-plate.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/tempo-plate.dxf){ download="tempo-plate.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/tempo-plate.step){ download title="Download STEP" }
+[:material-download: STEP](../files/tempo-plate.step){ download="tempo-plate.step" title="Download STEP" }

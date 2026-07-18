@@ -22,4 +22,4 @@ title: 2022 Eighty Plate Foam
 
 ## Design Files
 
-[:material-download: DXF](../files/eighty-2022-plate-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/eighty-2022-plate-foam.dxf){ download="eighty-2022-plate-foam.dxf" title="Download DXF" }

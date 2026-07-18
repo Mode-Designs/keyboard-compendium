@@ -22,4 +22,4 @@ title: 2021 SixtyFive Backpiece
 
 ## Design Files
 
-[:material-download: STEP](../files/sixtyfive-2021-backpiece.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sixtyfive-2021-backpiece.step){ download="sixtyfive-2021-backpiece.step" title="Download STEP" }

@@ -9,20 +9,20 @@ title: "Envoy Design Files"
 ## Accent
 
 Envoy Accent  
-[:material-download: STEP](../../files/envoy-accent.step){ download }
+[:material-download: STEP](../../files/envoy-accent.step){ download="envoy-accent.step" }
 
 ## Plate
 
 Envoy Plate  
-[:material-download: DXF](../../files/envoy-plate-universal.dxf){ download } [:material-download: STEP](../../files/envoy-plate-universal.step){ download }
+[:material-download: DXF](../../files/envoy-plate-universal.dxf){ download="envoy-plate-universal.dxf" } [:material-download: STEP](../../files/envoy-plate-universal.step){ download="envoy-plate-universal.step" }
 
 ## Acoustics
 
 Envoy Plate Foam  
-[:material-download: DXF](../../files/envoy-plate-foam.dxf){ download }
+[:material-download: DXF](../../files/envoy-plate-foam.dxf){ download="envoy-plate-foam.dxf" }
 
 Envoy Case Foam  
-[:material-download: DXF](../../files/envoy-case-foam.dxf){ download }
+[:material-download: DXF](../../files/envoy-case-foam.dxf){ download="envoy-case-foam.dxf" }
 
 Envoy PE Foam  
-[:material-download: DXF](../../files/envoy-pe-foam.dxf){ download }
+[:material-download: DXF](../../files/envoy-pe-foam.dxf){ download="envoy-pe-foam.dxf" }

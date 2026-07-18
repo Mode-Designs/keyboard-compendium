@@ -9,17 +9,17 @@ title: "Loop Design Files"
 ## Accent
 
 Loop Accent  
-[:material-download: STEP](../../files/loop-accent.step){ download }
+[:material-download: STEP](../../files/loop-accent.step){ download="loop-accent.step" }
 
 ## Plate
 
 Loop Plate / Universal  
-[:material-download: DXF](../../files/loop-plate-universal.dxf){ download } [:material-download: STEP](../../files/loop-plate-universal.step){ download }
+[:material-download: DXF](../../files/loop-plate-universal.dxf){ download="loop-plate-universal.dxf" } [:material-download: STEP](../../files/loop-plate-universal.step){ download="loop-plate-universal.step" }
 
 ## Acoustics
 
 Loop Case Foam  
-[:material-download: DXF](../../files/loop-case-foam.dxf){ download }
+[:material-download: DXF](../../files/loop-case-foam.dxf){ download="loop-case-foam.dxf" }
 
 Loop PE Foam  
-[:material-download: DXF](../../files/loop-pe-foam.dxf){ download }
+[:material-download: DXF](../../files/loop-pe-foam.dxf){ download="loop-pe-foam.dxf" }

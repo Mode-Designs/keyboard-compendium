@@ -22,4 +22,4 @@ title: 2022 Sonnet Plate Foam
 
 ## Design Files
 
-[:material-download: DXF](../files/sonnet-2022-plate-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/sonnet-2022-plate-foam.dxf){ download="sonnet-2022-plate-foam.dxf" title="Download DXF" }

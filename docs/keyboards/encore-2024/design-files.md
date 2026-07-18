@@ -9,4 +9,4 @@ title: "2024 Encore Design Files"
 ## Plate
 
 65% Plate / Universal  
-[:material-download: DXF](../../files/sixtyfive-2024-plate-universal.dxf){ download } [:material-download: STEP](../../files/sixtyfive-2024-plate-universal.step){ download }
+[:material-download: DXF](../../files/sixtyfive-2024-plate-universal.dxf){ download="sixtyfive-2024-plate-universal.dxf" } [:material-download: STEP](../../files/sixtyfive-2024-plate-universal.step){ download="sixtyfive-2024-plate-universal.step" }

@@ -20,4 +20,4 @@ title: 2020 Eighty Middle Gasket
 
 ## Design Files
 
-[:material-download: DXF](../files/eighty-2020-gasket-middle.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/eighty-2020-gasket-middle.dxf){ download="eighty-2020-gasket-middle.dxf" title="Download DXF" }

@@ -30,6 +30,6 @@ title: 2026 Sonnet Plate / ANSI
 
 ## Design Files
 
-[:material-download: DXF](../files/sonnet-2026-plate-ansi.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/sonnet-2026-plate-ansi.dxf){ download="sonnet-2026-plate-ansi.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/sonnet-2026-plate-ansi.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sonnet-2026-plate-ansi.step){ download="sonnet-2026-plate-ansi.step" title="Download STEP" }

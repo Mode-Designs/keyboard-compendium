@@ -22,6 +22,6 @@ title: 2021 SixtyFive Plate / ISO
 
 ## Design Files
 
-[:material-download: DXF](../files/sixtyfive-2021-plate-iso.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/sixtyfive-2021-plate-iso.dxf){ download="sixtyfive-2021-plate-iso.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/sixtyfive-2021-plate-iso.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sixtyfive-2021-plate-iso.step){ download="sixtyfive-2021-plate-iso.step" title="Download STEP" }

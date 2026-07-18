@@ -30,6 +30,6 @@ title: Loop Plate / Universal
 
 ## Design Files
 
-[:material-download: DXF](../files/loop-plate-universal.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/loop-plate-universal.dxf){ download="loop-plate-universal.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/loop-plate-universal.step){ download title="Download STEP" }
+[:material-download: STEP](../files/loop-plate-universal.step){ download="loop-plate-universal.step" title="Download STEP" }

@@ -30,4 +30,4 @@ title: Tempo PCB / Hotswap / Split Backspace
 
 ## Firmware
 
-**Firmware:** [mode_m60h_via.bin :octicons-link-external-16:](https://raw.githubusercontent.com/the-via/firmware/master/mode_m60h_via.bin){ download target="_blank" rel="noopener" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.
+**Firmware:** [mode_m60h_via.bin :octicons-link-external-16:](https://raw.githubusercontent.com/the-via/firmware/master/mode_m60h_via.bin){ download="mode_m60h_via.bin" target="_blank" rel="noopener" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.

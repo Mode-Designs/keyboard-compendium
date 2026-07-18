@@ -28,6 +28,6 @@ title: 2020 Eighty Plate / Ansi
 
 ## Design Files
 
-[:material-download: DXF](../files/eighty-2020-plate-ansi.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/eighty-2020-plate-ansi.dxf){ download="eighty-2020-plate-ansi.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/eighty-2020-plate-ansi.step){ download title="Download STEP" }
+[:material-download: STEP](../files/eighty-2020-plate-ansi.step){ download="eighty-2020-plate-ansi.step" title="Download STEP" }

@@ -10,4 +10,4 @@ Not currently available to purchase or have made. Contact [support@modedesigns.c
 
 ## Design Files
 
-[:material-download: STEP](../files/sixtyfive-2024-badge-blank.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sixtyfive-2024-badge-blank.step){ download="sixtyfive-2024-badge-blank.step" title="Download STEP" }

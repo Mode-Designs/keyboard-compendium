@@ -9,18 +9,18 @@ title: "2022 Eighty Design Files"
 ## Plate
 
 2022 Eighty Plate / ANSI  
-[:material-download: DXF](../../files/eighty-2022-plate-ansi.dxf){ download } [:material-download: STEP](../../files/eighty-2022-plate-ansi.step){ download }
+[:material-download: DXF](../../files/eighty-2022-plate-ansi.dxf){ download="eighty-2022-plate-ansi.dxf" } [:material-download: STEP](../../files/eighty-2022-plate-ansi.step){ download="eighty-2022-plate-ansi.step" }
 
 2022 Eighty Plate / ANSI Half  
-[:material-download: DXF](../../files/eighty-2022-plate-ansi-half.dxf){ download } [:material-download: STEP](../../files/eighty-2022-plate-ansi-half.step){ download }
+[:material-download: DXF](../../files/eighty-2022-plate-ansi-half.dxf){ download="eighty-2022-plate-ansi-half.dxf" } [:material-download: STEP](../../files/eighty-2022-plate-ansi-half.step){ download="eighty-2022-plate-ansi-half.step" }
 
 2022 Eighty Plate / ISO  
-[:material-download: DXF](../../files/eighty-2022-plate-iso.dxf){ download } [:material-download: STEP](../../files/eighty-2022-plate-iso.step){ download }
+[:material-download: DXF](../../files/eighty-2022-plate-iso.dxf){ download="eighty-2022-plate-iso.dxf" } [:material-download: STEP](../../files/eighty-2022-plate-iso.step){ download="eighty-2022-plate-iso.step" }
 
 ## Acoustics
 
 2022 Eighty Poron Base  
-[:material-download: DXF](../../files/eighty-2022-poron-base.dxf){ download }
+[:material-download: DXF](../../files/eighty-2022-poron-base.dxf){ download="eighty-2022-poron-base.dxf" }
 
 2022 Eighty Plate Foam  
-[:material-download: DXF](../../files/eighty-2022-plate-foam.dxf){ download }
+[:material-download: DXF](../../files/eighty-2022-plate-foam.dxf){ download="eighty-2022-plate-foam.dxf" }

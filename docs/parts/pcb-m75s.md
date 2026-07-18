@@ -24,7 +24,7 @@ title: 75% PCB /Solder M75S
 
 **Designator:** `M75S PCB rev. Alpha` (printed on the PCB so you can identify your revision).
 
-**Firmware:** [mode_m75s_via.bin :octicons-link-external-16:](https://raw.githubusercontent.com/the-via/firmware/master/mode_m75s_via.bin){ download target="_blank" rel="noopener" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.
+**Firmware:** [mode_m75s_via.bin :octicons-link-external-16:](https://raw.githubusercontent.com/the-via/firmware/master/mode_m75s_via.bin){ download="mode_m75s_via.bin" target="_blank" rel="noopener" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.
 
 ## Compatible Replacements
 

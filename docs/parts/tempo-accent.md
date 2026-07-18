@@ -22,4 +22,4 @@ title: Tempo Accent
 
 ## Design Files
 
-[:material-download: STEP](../files/tempo-accent.step){ download title="Download STEP" }
+[:material-download: STEP](../files/tempo-accent.step){ download="tempo-accent.step" title="Download STEP" }

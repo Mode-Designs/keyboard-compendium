@@ -22,4 +22,4 @@ title: Loop PE Foam
 
 ## Design Files
 
-[:material-download: DXF](../files/loop-pe-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/loop-pe-foam.dxf){ download="loop-pe-foam.dxf" title="Download DXF" }

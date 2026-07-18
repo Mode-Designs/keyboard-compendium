@@ -20,4 +20,4 @@ title: 2022 Eighty Poron Base
 
 ## Design Files
 
-[:material-download: DXF](../files/eighty-2022-poron-base.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/eighty-2022-poron-base.dxf){ download="eighty-2022-poron-base.dxf" title="Download DXF" }

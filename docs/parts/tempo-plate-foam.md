@@ -22,4 +22,4 @@ title: Tempo Plate Foam
 
 ## Design Files
 
-[:material-download: DXF](../files/tempo-plate-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/tempo-plate-foam.dxf){ download="tempo-plate-foam.dxf" title="Download DXF" }

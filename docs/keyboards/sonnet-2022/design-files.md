@@ -9,26 +9,26 @@ title: "2022 Sonnet Design Files"
 ## Accent
 
 2022 Sonnet Accent  
-[:material-download: STEP](../../files/sonnet-2022-accent.step){ download }
+[:material-download: STEP](../../files/sonnet-2022-accent.step){ download="sonnet-2022-accent.step" }
 
 ## Plate
 
 2022 Sonnet Plate / Universal  
-[:material-download: DXF](../../files/sonnet-2022-plate.dxf){ download } [:material-download: STEP](../../files/sonnet-2022-plate.step){ download }
+[:material-download: DXF](../../files/sonnet-2022-plate.dxf){ download="sonnet-2022-plate.dxf" } [:material-download: STEP](../../files/sonnet-2022-plate.step){ download="sonnet-2022-plate.step" }
 
 2026 Sonnet Plate / ANSI  
-[:material-download: DXF](../../files/sonnet-2026-plate-ansi.dxf){ download } [:material-download: STEP](../../files/sonnet-2026-plate-ansi.step){ download }
+[:material-download: DXF](../../files/sonnet-2026-plate-ansi.dxf){ download="sonnet-2026-plate-ansi.dxf" } [:material-download: STEP](../../files/sonnet-2026-plate-ansi.step){ download="sonnet-2026-plate-ansi.step" }
 
 2026 Sonnet Plate / ISO  
-[:material-download: DXF](../../files/sonnet-2026-plate-iso.dxf){ download } [:material-download: STEP](../../files/sonnet-2026-plate-iso.step){ download }
+[:material-download: DXF](../../files/sonnet-2026-plate-iso.dxf){ download="sonnet-2026-plate-iso.dxf" } [:material-download: STEP](../../files/sonnet-2026-plate-iso.step){ download="sonnet-2026-plate-iso.step" }
 
 ## Acoustics
 
 2022 Sonnet Silicone Base  
-[:material-download: STEP](../../files/sonnet-2022-silicone-base.step){ download }
+[:material-download: STEP](../../files/sonnet-2022-silicone-base.step){ download="sonnet-2022-silicone-base.step" }
 
 2022 Sonnet PE Foam  
-[:material-download: DXF](../../files/sonnet-2022-pe-foam.dxf){ download }
+[:material-download: DXF](../../files/sonnet-2022-pe-foam.dxf){ download="sonnet-2022-pe-foam.dxf" }
 
 2022 Sonnet Plate Foam  
-[:material-download: DXF](../../files/sonnet-2022-plate-foam.dxf){ download }
+[:material-download: DXF](../../files/sonnet-2022-plate-foam.dxf){ download="sonnet-2022-plate-foam.dxf" }

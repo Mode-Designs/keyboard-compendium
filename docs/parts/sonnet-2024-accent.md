@@ -30,7 +30,7 @@ title: 2024 Sonnet Accent
 
 ## Design Files
 
-[:material-download: STEP](../files/sonnet-2024-accent.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sonnet-2024-accent.step){ download="sonnet-2024-accent.step" title="Download STEP" }
 
 ## Compatible Replacements
 

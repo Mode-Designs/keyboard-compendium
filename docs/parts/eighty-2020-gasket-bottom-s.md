@@ -22,4 +22,4 @@ title: 2020 Eighty Bottom Gasket / Solder
 
 ## Design Files
 
-[:material-download: DXF](../files/eighty-2020-gasket-bottom-s.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/eighty-2020-gasket-bottom-s.dxf){ download="eighty-2020-gasket-bottom-s.dxf" title="Download DXF" }

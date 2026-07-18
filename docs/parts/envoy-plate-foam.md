@@ -22,4 +22,4 @@ title: Envoy Plate Foam
 
 ## Design Files
 
-[:material-download: DXF](../files/envoy-plate-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/envoy-plate-foam.dxf){ download="envoy-plate-foam.dxf" title="Download DXF" }

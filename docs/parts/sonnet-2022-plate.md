@@ -30,6 +30,6 @@ title: 2022 Sonnet Plate / Universal
 
 ## Design Files
 
-[:material-download: DXF](../files/sonnet-2022-plate.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/sonnet-2022-plate.dxf){ download="sonnet-2022-plate.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/sonnet-2022-plate.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sonnet-2022-plate.step){ download="sonnet-2022-plate.step" title="Download STEP" }

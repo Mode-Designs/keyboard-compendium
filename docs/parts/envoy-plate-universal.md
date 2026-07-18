@@ -30,6 +30,6 @@ title: Envoy Plate
 
 ## Design Files
 
-[:material-download: DXF](../files/envoy-plate-universal.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/envoy-plate-universal.dxf){ download="envoy-plate-universal.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/envoy-plate-universal.step){ download title="Download STEP" }
+[:material-download: STEP](../files/envoy-plate-universal.step){ download="envoy-plate-universal.step" title="Download STEP" }

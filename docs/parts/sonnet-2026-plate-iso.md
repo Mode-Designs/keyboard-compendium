@@ -22,6 +22,6 @@ title: 2026 Sonnet Plate / ISO
 
 ## Design Files
 
-[:material-download: DXF](../files/sonnet-2026-plate-iso.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/sonnet-2026-plate-iso.dxf){ download="sonnet-2026-plate-iso.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/sonnet-2026-plate-iso.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sonnet-2026-plate-iso.step){ download="sonnet-2026-plate-iso.step" title="Download STEP" }

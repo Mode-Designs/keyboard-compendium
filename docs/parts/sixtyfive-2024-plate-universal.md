@@ -30,6 +30,6 @@ title: 65% Plate / Universal
 
 ## Design Files
 
-[:material-download: DXF](../files/sixtyfive-2024-plate-universal.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/sixtyfive-2024-plate-universal.dxf){ download="sixtyfive-2024-plate-universal.dxf" title="Download DXF" }
 
-[:material-download: STEP](../files/sixtyfive-2024-plate-universal.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sixtyfive-2024-plate-universal.step){ download="sixtyfive-2024-plate-universal.step" title="Download STEP" }

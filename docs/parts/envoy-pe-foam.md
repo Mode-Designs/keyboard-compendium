@@ -22,4 +22,4 @@ title: Envoy PE Foam
 
 ## Design Files
 
-[:material-download: DXF](../files/envoy-pe-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/envoy-pe-foam.dxf){ download="envoy-pe-foam.dxf" title="Download DXF" }

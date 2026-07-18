@@ -30,4 +30,4 @@ title: Loop Accent
 
 ## Design Files
 
-[:material-download: STEP](../files/loop-accent.step){ download title="Download STEP" }
+[:material-download: STEP](../files/loop-accent.step){ download="loop-accent.step" title="Download STEP" }

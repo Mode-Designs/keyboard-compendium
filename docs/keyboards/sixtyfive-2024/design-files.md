@@ -9,15 +9,15 @@ title: "2024 SixtyFive Design Files"
 ## Accent
 
 2024 SixtyFive Accent  
-[:material-download: STEP](../../files/sixtyfive-2024-accent.step){ download }
+[:material-download: STEP](../../files/sixtyfive-2024-accent.step){ download="sixtyfive-2024-accent.step" }
 
 2024 SixtyFive Badge / Blank  
-[:material-download: STEP](../../files/sixtyfive-2024-badge-blank.step){ download }
+[:material-download: STEP](../../files/sixtyfive-2024-badge-blank.step){ download="sixtyfive-2024-badge-blank.step" }
 
 2024 SixtyFive Badge / Logo  
-[:material-download: STEP](../../files/sixtyfive-2024-badge-logo.step){ download }
+[:material-download: STEP](../../files/sixtyfive-2024-badge-logo.step){ download="sixtyfive-2024-badge-logo.step" }
 
 ## Plate
 
 65% Plate / Universal  
-[:material-download: DXF](../../files/sixtyfive-2024-plate-universal.dxf){ download } [:material-download: STEP](../../files/sixtyfive-2024-plate-universal.step){ download }
+[:material-download: DXF](../../files/sixtyfive-2024-plate-universal.dxf){ download="sixtyfive-2024-plate-universal.dxf" } [:material-download: STEP](../../files/sixtyfive-2024-plate-universal.step){ download="sixtyfive-2024-plate-universal.step" }

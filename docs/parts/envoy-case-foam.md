@@ -22,4 +22,4 @@ title: Envoy Case Foam
 
 ## Design Files
 
-[:material-download: DXF](../files/envoy-case-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/envoy-case-foam.dxf){ download="envoy-case-foam.dxf" title="Download DXF" }

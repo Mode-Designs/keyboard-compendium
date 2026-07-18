@@ -46,11 +46,11 @@ title: 2021 SixtyFive Plate / ANSI
 
 ## Design Files
 
-[:material-download: Plate (DXF)](#){ download title="Download plate DXF" }
+[:material-download: Plate (DXF)](#){ download="part-slug.dxf" title="Download plate DXF" }
 
-[:material-download: Plate (STEP)](#){ download title="Download plate STEP" }
+[:material-download: Plate (STEP)](#){ download="part-slug.step" title="Download plate STEP" }
 
-[:material-download: Plate (DWG)](#){ download title="Download plate DWG" }
+[:material-download: Plate (DWG)](#){ download="part-slug.dwg" title="Download plate DWG" }
 
 
 ## Compatible Replacements

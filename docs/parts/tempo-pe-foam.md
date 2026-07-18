@@ -12,4 +12,4 @@ Not currently available to purchase or have made. Contact [support@modedesigns.c
 
 ## Design Files
 
-[:material-download: DXF](../files/tempo-pe-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/tempo-pe-foam.dxf){ download="tempo-pe-foam.dxf" title="Download DXF" }

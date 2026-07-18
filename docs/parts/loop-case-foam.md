@@ -22,4 +22,4 @@ title: Loop Case Foam
 
 ## Design Files
 
-[:material-download: DXF](../files/loop-case-foam.dxf){ download title="Download DXF" }
+[:material-download: DXF](../files/loop-case-foam.dxf){ download="loop-case-foam.dxf" title="Download DXF" }

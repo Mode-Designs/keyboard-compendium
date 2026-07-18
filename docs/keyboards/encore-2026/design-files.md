@@ -9,7 +9,7 @@ title: "2026 Encore Design Files"
 ## Plate
 
 2026 Encore Plate / ANSI  
-[:material-download: DXF](../../files/encore-2026-plate-ansi.dxf){ download } [:material-download: STEP](../../files/encore-2026-plate-ansi.step){ download }
+[:material-download: DXF](../../files/encore-2026-plate-ansi.dxf){ download="encore-2026-plate-ansi.dxf" } [:material-download: STEP](../../files/encore-2026-plate-ansi.step){ download="encore-2026-plate-ansi.step" }
 
 2026 Encore Plate / ISO  
-[:material-download: DXF](../../files/encore-2026-plate-iso.dxf){ download } [:material-download: STEP](../../files/encore-2026-plate-iso.step){ download }
+[:material-download: DXF](../../files/encore-2026-plate-iso.dxf){ download="encore-2026-plate-iso.dxf" } [:material-download: STEP](../../files/encore-2026-plate-iso.step){ download="encore-2026-plate-iso.step" }

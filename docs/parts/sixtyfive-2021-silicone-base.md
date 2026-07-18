@@ -12,4 +12,4 @@ Not currently available to purchase or have made. Contact [support@modedesigns.c
 
 ## Design Files
 
-[:material-download: STEP](../files/sixtyfive-2021-silicone-base.step){ download title="Download STEP" }
+[:material-download: STEP](../files/sixtyfive-2021-silicone-base.step){ download="sixtyfive-2021-silicone-base.step" title="Download STEP" }

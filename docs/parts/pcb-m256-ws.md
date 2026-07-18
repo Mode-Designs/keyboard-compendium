@@ -14,7 +14,7 @@ Not currently available to purchase or have made. Contact [support@modedesigns.c
 
 **Designator:** `M256-WS PCB REV. ALPHA-RC2` (printed on the PCB so you can identify your revision).
 
-**Firmware:** [mode_m256ws_via.bin :octicons-link-external-16:](https://raw.githubusercontent.com/the-via/firmware/master/mode_m256ws_via.bin){ download target="_blank" rel="noopener" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.
+**Firmware:** [mode_m256ws_via.bin :octicons-link-external-16:](https://raw.githubusercontent.com/the-via/firmware/master/mode_m256ws_via.bin){ download="mode_m256ws_via.bin" target="_blank" rel="noopener" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.
 
 ## Compatible Replacements
 

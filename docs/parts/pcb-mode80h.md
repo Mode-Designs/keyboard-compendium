@@ -32,4 +32,4 @@ title: 2020 Eighty PCB / Hotswap
 
 **Designator:** `MODE80H PCB v1.1` (printed on the PCB so you can identify your revision).
 
-**Firmware:** [mode_m80v1_m80h_via.bin :octicons-link-external-16:](https://raw.githubusercontent.com/the-via/firmware/master/mode_m80v1_m80h_via.bin){ download target="_blank" rel="noopener" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.
+**Firmware:** [mode_m80v1_m80h_via.bin :octicons-link-external-16:](https://raw.githubusercontent.com/the-via/firmware/master/mode_m80v1_m80h_via.bin){ download="mode_m80v1_m80h_via.bin" target="_blank" rel="noopener" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.
