@@ -2,7 +2,7 @@
 title: 2026 Sonnet Plate / ISO
 ---
 
-`2022 Sonnet` `2024 Sonnet`
+`2022 Sonnet` `2024 Sonnet` `2026 Sonnet`
 
 ![2026 Sonnet Plate / ISO](../assets/sonnet-2026-plate-iso.webp)
 

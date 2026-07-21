@@ -2,7 +2,7 @@
 title: 2026 Sonnet Plate / ANSI
 ---
 
-`2022 Sonnet` `2024 Sonnet`
+`2022 Sonnet` `2024 Sonnet` `2026 Sonnet`
 
 ![2026 Sonnet Plate / ANSI](../assets/sonnet-2026-plate-ansi.webp)
 

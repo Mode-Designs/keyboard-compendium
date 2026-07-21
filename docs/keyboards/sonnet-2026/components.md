@@ -24,6 +24,13 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 |:---|:---|:---|:---|
 | [2022 Sonnet Weight](../../parts/sonnet-2022-weight.md#availability){ data-preview } | Updated | `Mode` | Compatible with 2026 Sonnet Plate / ANSI, 2026 Sonnet Plate / ISO. |
 
+## Plate
+
+| Compatible Parts | Version | Availability | Notes |
+|:---|:---|:---|:---|
+| [2026 Sonnet Plate / ANSI](../../parts/sonnet-2026-plate-ansi.md#availability){ data-preview } | Original | `Mode` `Have it Made` |  |
+| [2026 Sonnet Plate / ISO](../../parts/sonnet-2026-plate-iso.md#availability){ data-preview } | Original | `Have it Made` | Requires the solder PCB; the hotswap PCB is ANSI only. See [Design Files](design-files.md#plate). |
+
 ## PCB & Electronics
 
 | Compatible Parts | Version | Availability | Notes |
