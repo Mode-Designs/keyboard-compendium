@@ -14,6 +14,7 @@ the licenses below.
 | Design files Mode authored (CAD in `docs/files/`) | CERN Open Hardware Licence v2 - Permissive | `CERN-OHL-P-2.0` |
 | Documentation, page text, tables, and images | Creative Commons Attribution 4.0 International | `CC-BY-4.0` |
 | Site tooling, configuration, theme, and scripts | MIT | `MIT` |
+| Precompiled keyboard firmware (`.bin` in `docs/files/`), built from QMK | GNU General Public License v2.0 or later | `GPL-2.0-or-later` |
 
 Full license texts are in [`LICENSES/`](LICENSES/). The copyright holder is **Mode Designs LLC**,
 &copy; 2026.

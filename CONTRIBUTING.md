@@ -29,7 +29,7 @@ until it passes.
 | `docs/` | Everything the site publishes (MkDocs source root). The **only** tracked content. |
 | `docs/keyboards/<name-year>/` | One folder per board (the four pages below) |
 | `docs/parts/` | Flat part pages, **not** in the nav; reached from Components tables |
-| `docs/files/` | Published CAD downloads, **flat**, slug-named `.dxf`/`.step`. Content only. |
+| `docs/files/` | Published downloads, **flat**, slug-named: CAD (`.dxf`/`.step`) and precompiled firmware (`.bin`). Content only. |
 | `docs/assets/` | Published images, **flat**, slug-named `.webp`. Content only, **no chrome**. |
 | `docs/theme/` | Site chrome: `logo.svg`, `favicon.png`, fonts. Fixed paths, not slug content. |
 | `templates/part.md` | Starting point for new part pages |

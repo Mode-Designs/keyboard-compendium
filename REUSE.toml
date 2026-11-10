@@ -27,3 +27,9 @@ SPDX-License-Identifier = "CERN-OHL-P-2.0"
 path = ["docs/theme/**", "docs/stylesheets/**"]
 SPDX-FileCopyrightText = "2026 Mode Designs LLC"
 SPDX-License-Identifier = "MIT"
+
+# Precompiled QMK keyboard firmware. QMK is GPL-licensed, so builds are too.
+[[annotations]]
+path = "docs/files/*.bin"
+SPDX-FileCopyrightText = ["QMK Firmware contributors", "2026 Mode Designs LLC"]
+SPDX-License-Identifier = "GPL-2.0-or-later"
