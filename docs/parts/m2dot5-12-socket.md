@@ -2,7 +2,7 @@
 title: M2.5x12mm Socket Head Cap
 ---
 
-`Loop` `2026 Sonnet` `2026 Encore`
+`Loop`
 
 ## Availability
 
