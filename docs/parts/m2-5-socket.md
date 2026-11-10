@@ -2,7 +2,7 @@
 title: M2x5mm Socket Head Cap
 ---
 
-`2022 Sonnet` `2024 Sonnet` `2024 SixtyFive`
+`2022 Sonnet` `2024 Sonnet` `2024 SixtyFive` `2026 Sonnet`
 
 ## Availability
 

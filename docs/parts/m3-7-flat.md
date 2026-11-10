@@ -2,7 +2,7 @@
 title: M3x7mm Flat Head Cap
 ---
 
-`2022 Sonnet`
+`2022 Sonnet` `2026 Sonnet`
 
 ## Availability
 
