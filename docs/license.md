@@ -23,6 +23,7 @@ different open licenses, and Mode's trademarks are reserved separately from all 
 | Design files Mode authored (CAD: `.dxf`, `.step`, and similar) | [CERN Open Hardware Licence v2 - Permissive](https://spdx.org/licenses/CERN-OHL-P-2.0.html) | `CERN-OHL-P-2.0` |
 | Documentation, page text, tables, and images | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) | `CC-BY-4.0` |
 | Site tooling, configuration, theme, and scripts | [MIT](https://opensource.org/license/mit) | `MIT` |
+| Precompiled keyboard firmware (`.bin`), built from [QMK](https://github.com/qmk/qmk_firmware) | [GNU General Public License v2.0 or later](https://spdx.org/licenses/GPL-2.0-or-later.html) | `GPL-2.0-or-later` |
 
 The full text of each license is in the repository's
 [`LICENSES/`](https://github.com/Mode-Designs/keyboard-compendium/tree/main/LICENSES) directory.

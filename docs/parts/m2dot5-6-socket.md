@@ -2,7 +2,7 @@
 title: M2.5x6mm Socket Head Cap
 ---
 
-`2024 SixtyFive`
+`2024 SixtyFive` `2026 Encore`
 
 ## Availability
 

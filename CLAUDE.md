@@ -17,7 +17,7 @@ no abstractions for single-use code, no flexibility that wasn't requested.
 ## Never invent part data
 
 Compatibility, availability, sourcing, and version facts are authoritative data. They come
-from the maintainer as a source spreadsheet kept under `references/` (gitignored).
+from the maintainer's part records.
 **Never guess or fabricate them.** When a fact seems derivable from existing data (overlapping
 usage, or forward/backward compatibility that isn't stated explicitly), **do not assume; ask
 the maintainer to confirm.**

@@ -49,3 +49,5 @@ Version and availability terms are defined in [Conventions](../../index.md#conve
 | Compatible Parts | Version | Availability | Notes |
 |:---|:---|:---|:---|
 | [M2x3mm Socket Head Cap](../../parts/m2-3-socket.md#availability){ data-preview } | Standard | `Third Party` | Daughterboard fasteners. |
+| [M2.5x6mm Socket Head Cap](../../parts/m2dot5-6-socket.md#availability){ data-preview } | Standard | `Third Party` | Front case and top fasteners. |
+| [M2.5x14mm Socket Head Cap](../../parts/m2dot5-14-socket.md#availability){ data-preview } | Standard | `Third Party` | Rear case fasteners. |

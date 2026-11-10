@@ -22,4 +22,4 @@ title: 75% PCB / Hotswap M75H-V2
 
 **Designator:** `M75H-V2 Production RC1` (printed on the PCB so you can identify your revision).
 
-**Firmware:** available soon. Reconfigure or remap this PCB in [VIA](https://usevia.app){ target="_blank" rel="noopener" }. All Mode PCBs run QMK with VIA support.
+**Firmware:** [:material-download: mode-m75v2-via.bin](../files/mode-m75v2-via.bin){ download="mode-m75v2-via.bin" }. Flash it with QMK Toolbox, then remap your keys in [VIA](https://usevia.app){ target="_blank" rel="noopener" }.
