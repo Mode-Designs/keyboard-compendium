@@ -5,7 +5,7 @@ file organization. It serves human contributors and AI assistants alike. Follow 
 only for edge cases that genuinely help users, and call the deviation out in your PR.
 
 > **The compendium is a factual reference.** Never invent compatibility, availability, sourcing,
-> or version facts; those come from the maintainer or the source spreadsheet. If a fact seems
+> or version facts; those come from the maintainer's part records. If a fact seems
 > derivable from existing data (overlapping parts, unstated forward/backward compatibility), ask
 > the maintainer to confirm rather than assuming.
 
@@ -33,7 +33,7 @@ until it passes.
 | `docs/assets/` | Published images, **flat**, slug-named `.webp`. Content only, **no chrome**. |
 | `docs/theme/` | Site chrome: `logo.svg`, `favicon.png`, fonts. Fixed paths, not slug content. |
 | `templates/part.md` | Starting point for new part pages |
-| `references/` (gitignored) | **Working source, local-only.** Holds the data spreadsheet plus `references/design_files/` (raw CAD `dxf-…`/`step-…`) and `references/drawings/<year-name>/` (source `.webp`). Never published or tracked. |
+| `references/` (gitignored) | **Working source, local-only.** Holds `references/design_files/` (raw CAD `dxf-…`/`step-…`) and `references/drawings/<year-name>/` (source `.webp`). Never published or tracked. |
 | `mkdocs.yml` | Site config + nav (boards are listed here; parts are excluded) |
 
 The working source lives in gitignored `references/` and is local-only; it is **not** part of
@@ -243,8 +243,8 @@ Open a pull request for content changes (wording, structure, fixing a typo or br
 keep `mkdocs build --strict` green.
 
 **Proposing a data change.** Compatibility, availability, sourcing, version, production-year, and
-status values are authoritative data: the source of truth is the maintainer's source spreadsheet
-(the gitignored `references/`), and the published tables mirror it. Don't change these with a PR
+status values are authoritative data: the source of truth is the maintainer's part records, and
+the published tables mirror them. Don't change these with a PR
 that edits a table value; instead open an issue (or email support@modedesigns.com) with the board
 and part, the current value, the proposed value, and a source for it. The maintainer verifies it
 against the source and publishes the change. This is the factual-reference rule at the top of this
